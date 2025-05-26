@@ -10,6 +10,7 @@
             "breed": "Jack Russell Terrier",
             "gender": "female",
             "location": "Los Angeles",
+            "size": "small",
             "short_description": "Energetic and full of life, always ready for an adventure.",
             "long_description": "The Jack Russell Terrier is a small, energetic breed originally developed for fox hunting. Known for their lively personality, high intelligence, and boundless enthusiasm, these dogs make loyal companions and excel in various canine sports. Despite their small size, they possess a fearless nature and require regular mental and physical stimulation."
         },
@@ -19,17 +20,19 @@
             "breed": "Border Collie",
             "gender": "male",
             "location": "Austin",
+            "size": "medium",
             "short_description": "An intelligent herder with a heart of gold.",
             "long_description": "Border Collies are widely recognized as one of the most intelligent and trainable dog breeds. Originating from the border regions between England and Scotland, they were bred for herding livestock, particularly sheep. They are highly energetic, eager to work, and thrive in environments that challenge their mind and body. Loyal and affectionate, they form strong bonds with their families."
         },
         {
             "id": 3,
             "image": "http://localhost:4000/filebucket/dog3.png",
-            "breed": "Bull-Boxer",
+            "breed": "Pomeranian",
             "gender": "female",
-            "location": "Chicago",
-            "short_description": "A bold mix with a loving and protective nature.",
-            "long_description": "The Bull-Boxer is a crossbreed between a Bulldog and a Boxer, known for its sturdy build, affectionate personality, and protective instincts. These dogs typically exhibit a playful and loyal temperament, making them great family companions. They are intelligent, alert, and require consistent training and socialization to thrive in various home environments."
+            "location": "Philadelphia",
+            "size": "small",
+            "short_description": "A fluffy ball of confidence and playful curiosity.",
+            "long_description": "Pomeranians are small yet bold companions, known for their luxurious double coat and spirited personality. These tiny dogs pack a big attitude, often acting as vigilant watchdogs while showering their humans with affection. They enjoy learning tricks and being the center of attention in any household."
         },
         {
             "id": 4,
@@ -37,6 +40,7 @@
             "breed": "Greyhound",
             "gender": "male",
             "location": "New York City",
+            "size": "large",
             "short_description": "A calm sprinter with a gentle heart and soulful eyes.",
             "long_description": "Greyhounds are famous for their incredible speed and slender build, often seen on racetracks but cherished as affectionate, quiet pets at home. Known for their sweet and sensitive nature, Greyhounds are gentle with families and adapt well to indoor living, enjoying both cozy naps and energetic sprints."
         },
@@ -46,17 +50,19 @@
             "breed": "Dobermann",
             "gender": "male",
             "location": "Atlanta",
+            "size": "large",
             "short_description": "A loyal guardian with unmatched confidence and energy.",
             "long_description": "Dobermanns are known for their sleek, powerful build and sharp intelligence. Originally bred as guard dogs, they possess a protective yet affectionate nature towards their families. Highly trainable and athletic, Dobermanns thrive on structured activity and consistent companionship."
         },
         {
             "id": 6,
             "image": "http://localhost:4000/filebucket/dog6.png",
-            "breed": "Pomeranian",
+            "breed": "Bull-Boxer",
             "gender": "female",
-            "location": "Philadelphia",
-            "short_description": "A fluffy ball of confidence and playful curiosity.",
-            "long_description": "Pomeranians are small yet bold companions, known for their luxurious double coat and spirited personality. These tiny dogs pack a big attitude, often acting as vigilant watchdogs while showering their humans with affection. They enjoy learning tricks and being the center of attention in any household."
+            "location": "Chicago",
+            "size": "medium",
+            "short_description": "A bold mix with a loving and protective nature.",
+            "long_description": "The Bull-Boxer is a crossbreed between a Bulldog and a Boxer, known for its sturdy build, affectionate personality, and protective instincts. These dogs typically exhibit a playful and loyal temperament, making them great family companions. They are intelligent, alert, and require consistent training and socialization to thrive in various home environments."
         },
         {
             "id": 7,
@@ -64,6 +70,7 @@
             "breed": "Chihuahua",
             "gender": "female",
             "location": "San Diego",
+            "size": "small",
             "short_description": "Tiny in size, huge in personality — a fearless little companion.",
             "long_description": "Chihuahuas are one of the smallest dog breeds, celebrated for their big personalities and loyal nature. Despite their petite frame, they’re bold, alert, and often act as if they're much larger than they are. These affectionate dogs bond closely with their owners and thrive in warm, cozy environments."
         }
