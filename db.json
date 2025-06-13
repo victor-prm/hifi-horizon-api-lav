@@ -1,4 +1,25 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "email": "clu@mail.dk",
+      "username": "Carsten",
+      "password": "$2a$10$bbeRYksb2wHNhyc3Zeq9aOSVM0gIJ2qbnqD.PCQqbA/RTw2jqfbQS",
+      "name": "Carsten Lund"
+    },
+    {
+      "email": "test@test.dk",
+      "password": "$2a$10$idUX4MMlI13JCOBo5GJJNuc/jpI/kKaPmcpbXgD.WtXM0Z76gSkT.",
+      "username": "test",
+      "passwordConfirm": "test",
+      "id": 2
+    },
+    {
+      "email": "test2@test.dk",
+      "password": "$2a$10$Fvupx2YiR3GT.sD60UdNJu5VwUQwOO6s1ZPcmpW1muLsvM4uYsUBm",
+      "id": 3
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -468,5 +489,6 @@
       "short-description": "Immersive tube amplifier, detailed and musical.",
       "long-description": "Dive into the captivating world of tube audio with this remarkable amplifier. Its smooth, articulate sound and impressive power output create an immersive listening experience that's both detailed and wonderfully musical."
     }
-  ]
+  ],
+  "newsletter_list": []
 }
