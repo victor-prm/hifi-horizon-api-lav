@@ -31,8 +31,8 @@
       "price": 524.95,
       "stock": 14,
       "discount": 15,
-      "short-description": "Pristine audio reproduction for CD enthusiasts.",
-      "long-description": "Immerse yourself in pristine audio with this top-tier CD player, designed for exceptional clarity and dynamic range. Every note is reproduced with stunning accuracy, revealing subtle nuances you've never heard before."
+      "shortDescription": "Pristine audio reproduction for CD enthusiasts.",
+      "longDescription": "Immerse yourself in pristine audio with this top-tier CD player, designed for exceptional clarity and dynamic range. Every note is reproduced with stunning accuracy, revealing subtle nuances you've never heard before."
     },
     {
       "id": 2,
@@ -44,8 +44,8 @@
       "price": 549.95,
       "stock": 19,
       "discount": 0,
-      "short-description": "Next-level CD playback with enhanced clarity.",
-      "long-description": "Experience your music collection anew with this advanced CD player. Its superior decoding and playback capabilities deliver an expansive soundstage and breathtaking detail, making every listening session an event."
+      "shortDescription": "Next-level CD playback with enhanced clarity.",
+      "longDescription": "Experience your music collection anew with this advanced CD player. Its superior decoding and playback capabilities deliver an expansive soundstage and breathtaking detail, making every listening session an event."
     },
     {
       "id": 3,
@@ -57,8 +57,8 @@
       "price": 1024.95,
       "stock": 2,
       "discount": 5,
-      "short-description": "Audiophile-grade CD player for discerning ears.",
-      "long-description": "This audiophile-grade CD player elevates your listening experience with its precise engineering. Enjoy rich, vibrant sound and an unparalleled level of musicality, bringing your favorite artists directly into your living room."
+      "shortDescription": "Audiophile-grade CD player for discerning ears.",
+      "longDescription": "This audiophile-grade CD player elevates your listening experience with its precise engineering. Enjoy rich, vibrant sound and an unparalleled level of musicality, bringing your favorite artists directly into your living room."
     },
     {
       "id": 4,
@@ -70,8 +70,8 @@
       "price": 849.95,
       "stock": 10,
       "discount": 0,
-      "short-description": "Unleash full CD potential with dynamic sound.",
-      "long-description": "Unleash the full potential of your CDs with this high-performance player. It offers exceptional sonic purity and a wide dynamic range, ensuring every track is rendered with authenticity and emotional impact."
+      "shortDescription": "Unleash full CD potential with dynamic sound.",
+      "longDescription": "Unleash the full potential of your CDs with this high-performance player. It offers exceptional sonic purity and a wide dynamic range, ensuring every track is rendered with authenticity and emotional impact."
     },
     {
       "id": 5,
@@ -83,8 +83,8 @@
       "price": 824.95,
       "stock": 5,
       "discount": 10,
-      "short-description": "Premium DVD player for immersive visuals and audio.",
-      "long-description": "Step into a world of immersive entertainment with this versatile DVD player. It delivers stunning visual fidelity and audiophile-grade sound, making it perfect for both movies and music playback."
+      "shortDescription": "Premium DVD player for immersive visuals and audio.",
+      "longDescription": "Step into a world of immersive entertainment with this versatile DVD player. It delivers stunning visual fidelity and audiophile-grade sound, making it perfect for both movies and music playback."
     },
     {
       "id": 6,
@@ -96,8 +96,8 @@
       "price": 699.95,
       "stock": 9,
       "discount": 15,
-      "short-description": "Crisp video and detailed sound from this DVD player.",
-      "long-description": "Experience crystal-clear video and rich, detailed audio with this high-quality DVD player. Its robust design ensures reliable performance, bringing your favorite films and concerts to life with exceptional precision."
+      "shortDescription": "Crisp video and detailed sound from this DVD player.",
+      "longDescription": "Experience crystal-clear video and rich, detailed audio with this high-quality DVD player. Its robust design ensures reliable performance, bringing your favorite films and concerts to life with exceptional precision."
     },
     {
       "id": 7,
@@ -109,8 +109,8 @@
       "price": 999.95,
       "stock": 1,
       "discount": 10,
-      "short-description": "Home theater essential: superb DVD and audio.",
-      "long-description": "This meticulously engineered DVD player is a cornerstone for any home theater, delivering vibrant images and a nuanced sound profile. Enjoy every scene and every soundtrack with unparalleled depth and clarity."
+      "shortDescription": "Home theater essential: superb DVD and audio.",
+      "longDescription": "This meticulously engineered DVD player is a cornerstone for any home theater, delivering vibrant images and a nuanced sound profile. Enjoy every scene and every soundtrack with unparalleled depth and clarity."
     },
     {
       "id": 8,
@@ -122,8 +122,8 @@
       "price": 1274.95,
       "stock": 15,
       "discount": 5,
-      "short-description": "Cinematic audio and video with this DVD player.",
-      "long-description": "Unlock a truly cinematic experience with this premium DVD player. Its advanced processing ensures stunning video playback and a captivating audio performance, making it an essential component for discerning viewers."
+      "shortDescription": "Cinematic audio and video with this DVD player.",
+      "longDescription": "Unlock a truly cinematic experience with this premium DVD player. Its advanced processing ensures stunning video playback and a captivating audio performance, making it an essential component for discerning viewers."
     },
     {
       "id": 9,
@@ -135,8 +135,8 @@
       "price": 1274.95,
       "stock": 7,
       "discount": 20,
-      "short-description": "Powerful integrated amp for dynamic audio.",
-      "long-description": "This integrated amplifier is a powerhouse of sound, combining robust power with refined control. It delivers a dynamic and detailed audio experience, perfect for bringing out the best in your speakers."
+      "shortDescription": "Powerful integrated amp for dynamic audio.",
+      "longDescription": "This integrated amplifier is a powerhouse of sound, combining robust power with refined control. It delivers a dynamic and detailed audio experience, perfect for bringing out the best in your speakers."
     },
     {
       "id": 10,
@@ -148,8 +148,8 @@
       "price": 1824.95,
       "stock": 16,
       "discount": 10,
-      "short-description": "Pure sound and powerful performance in one unit.",
-      "long-description": "Experience pure audio bliss with this integrated amplifier, crafted for sonic purity and powerful performance. Its meticulous design ensures a clean signal path and exceptional clarity across all frequencies."
+      "shortDescription": "Pure sound and powerful performance in one unit.",
+      "longDescription": "Experience pure audio bliss with this integrated amplifier, crafted for sonic purity and powerful performance. Its meticulous design ensures a clean signal path and exceptional clarity across all frequencies."
     },
     {
       "id": 11,
@@ -161,8 +161,8 @@
       "price": 1524.95,
       "stock": 9,
       "discount": 20,
-      "short-description": "Rich, full-bodied sound from this integrated amp.",
-      "long-description": "This integrated amplifier provides the perfect blend of power and finesse, delivering a rich, full-bodied sound that will transform your listening space. Its intuitive controls make it a joy to operate."
+      "shortDescription": "Rich, full-bodied sound from this integrated amp.",
+      "longDescription": "This integrated amplifier provides the perfect blend of power and finesse, delivering a rich, full-bodied sound that will transform your listening space. Its intuitive controls make it a joy to operate."
     },
     {
       "id": 12,
@@ -174,8 +174,8 @@
       "price": 1274.95,
       "stock": 4,
       "discount": 10,
-      "short-description": "Unleash your audio system's true potential.",
-      "long-description": "Unlock the true potential of your audio system with this robust integrated amplifier. It offers exceptional headroom and a wide dynamic range, ensuring your music is delivered with impact and precision."
+      "shortDescription": "Unleash your audio system's true potential.",
+      "longDescription": "Unlock the true potential of your audio system with this robust integrated amplifier. It offers exceptional headroom and a wide dynamic range, ensuring your music is delivered with impact and precision."
     },
     {
       "id": 13,
@@ -187,8 +187,8 @@
       "price": 2299.95,
       "stock": 4,
       "discount": 5,
-      "short-description": "Uncompromising sound quality for audiophiles.",
-      "long-description": "This integrated amplifier is engineered for audio enthusiasts who demand uncompromising sound quality. Its sophisticated circuitry provides a captivating listening experience, revealing every nuance of your favorite tracks."
+      "shortDescription": "Uncompromising sound quality for audiophiles.",
+      "longDescription": "This integrated amplifier is engineered for audio enthusiasts who demand uncompromising sound quality. Its sophisticated circuitry provides a captivating listening experience, revealing every nuance of your favorite tracks."
     },
     {
       "id": 14,
@@ -200,8 +200,8 @@
       "price": 2474.95,
       "stock": 4,
       "discount": 10,
-      "short-description": "Authoritative power for demanding speakers.",
-      "long-description": "Drive your speakers to their full potential with this exceptionally powerful amplifier. Designed for stability and sonic purity, it delivers an authoritative and transparent sound, even with the most challenging loads."
+      "shortDescription": "Authoritative power for demanding speakers.",
+      "longDescription": "Drive your speakers to their full potential with this exceptionally powerful amplifier. Designed for stability and sonic purity, it delivers an authoritative and transparent sound, even with the most challenging loads."
     },
     {
       "id": 15,
@@ -213,8 +213,8 @@
       "price": 2974.95,
       "stock": 20,
       "discount": 0,
-      "short-description": "Unadulterated audio performance power amp.",
-      "long-description": "This power amplifier is built to deliver unadulterated audio performance. Its massive power reserves and pristine signal reproduction ensure every note is rendered with stunning dynamics and incredible accuracy."
+      "shortDescription": "Unadulterated audio performance power amp.",
+      "longDescription": "This power amplifier is built to deliver unadulterated audio performance. Its massive power reserves and pristine signal reproduction ensure every note is rendered with stunning dynamics and incredible accuracy."
     },
     {
       "id": 16,
@@ -226,8 +226,8 @@
       "price": 1024.95,
       "stock": 20,
       "discount": 20,
-      "short-description": "High-current power for an expansive soundstage.",
-      "long-description": "Elevate your audio system with this high-current power amplifier. It provides a stable and consistent power delivery, resulting in a rich, detailed, and expansive soundstage that fills your room."
+      "shortDescription": "High-current power for an expansive soundstage.",
+      "longDescription": "Elevate your audio system with this high-current power amplifier. It provides a stable and consistent power delivery, resulting in a rich, detailed, and expansive soundstage that fills your room."
     },
     {
       "id": 17,
@@ -239,8 +239,8 @@
       "price": 2924.95,
       "stock": 5,
       "discount": 5,
-      "short-description": "Precision and strength for ultimate audio.",
-      "long-description": "Designed for the ultimate audio experience, this power amplifier combines raw strength with delicate precision. It renders complex musical passages effortlessly, providing an unparalleled sense of realism and impact."
+      "shortDescription": "Precision and strength for ultimate audio.",
+      "longDescription": "Designed for the ultimate audio experience, this power amplifier combines raw strength with delicate precision. It renders complex musical passages effortlessly, providing an unparalleled sense of realism and impact."
     },
     {
       "id": 18,
@@ -252,8 +252,8 @@
       "price": 824.95,
       "stock": 12,
       "discount": 20,
-      "short-description": "Refined control and transparent signal path.",
-      "long-description": "Take command of your audio with this precision preamplifier. Its transparent signal path and versatile connectivity options allow you to tailor your sound with exceptional clarity and control."
+      "shortDescription": "Refined control and transparent signal path.",
+      "longDescription": "Take command of your audio with this precision preamplifier. Its transparent signal path and versatile connectivity options allow you to tailor your sound with exceptional clarity and control."
     },
     {
       "id": 19,
@@ -265,8 +265,8 @@
       "price": 949.95,
       "stock": 6,
       "discount": 10,
-      "short-description": "Pristine audio signal with dynamic control.",
-      "long-description": "This preamplifier is the cornerstone of a high-fidelity system, offering impeccable signal integrity and dynamic control. It ensures that every sonic detail is preserved, delivering a pure and engaging listening experience."
+      "shortDescription": "Pristine audio signal with dynamic control.",
+      "longDescription": "This preamplifier is the cornerstone of a high-fidelity system, offering impeccable signal integrity and dynamic control. It ensures that every sonic detail is preserved, delivering a pure and engaging listening experience."
     },
     {
       "id": 20,
@@ -278,8 +278,8 @@
       "price": 1024.95,
       "stock": 18,
       "discount": 0,
-      "short-description": "Advanced preamplifier for crystal-clear sound.",
-      "long-description": "Unlock the full potential of your audio components with this sophisticated preamplifier. Its advanced design minimizes noise and distortion, resulting in a remarkably clean, dynamic, and lifelike sound."
+      "shortDescription": "Advanced preamplifier for crystal-clear sound.",
+      "longDescription": "Unlock the full potential of your audio components with this sophisticated preamplifier. Its advanced design minimizes noise and distortion, resulting in a remarkably clean, dynamic, and lifelike sound."
     },
     {
       "id": 21,
@@ -291,8 +291,8 @@
       "price": 1524.95,
       "stock": 8,
       "discount": 0,
-      "short-description": "Audiophile-grade preamp for ultimate purity.",
-      "long-description": "Refine your sound with this audiophile-grade preamplifier, offering precise volume control and pristine signal amplification. It's the ideal choice for demanding listeners seeking ultimate sonic purity."
+      "shortDescription": "Audiophile-grade preamp for ultimate purity.",
+      "longDescription": "Refine your sound with this audiophile-grade preamplifier, offering precise volume control and pristine signal amplification. It's the ideal choice for demanding listeners seeking ultimate sonic purity."
     },
     {
       "id": 22,
@@ -304,8 +304,8 @@
       "price": 1774.95,
       "stock": 5,
       "discount": 5,
-      "short-description": "Rediscover vinyl with this elegant turntable.",
-      "long-description": "Revisit your vinyl collection with this exquisitely crafted record player. It delivers a rich, warm, and detailed sound that truly captures the essence of analog audio, making every spin a nostalgic journey."
+      "shortDescription": "Rediscover vinyl with this elegant turntable.",
+      "longDescription": "Revisit your vinyl collection with this exquisitely crafted record player. It delivers a rich, warm, and detailed sound that truly captures the essence of analog audio, making every spin a nostalgic journey."
     },
     {
       "id": 23,
@@ -317,8 +317,8 @@
       "price": 1424.95,
       "stock": 6,
       "discount": 15,
-      "short-description": "Precision-engineered turntable for vibrant sound.",
-      "long-description": "Immerse yourself in the captivating world of vinyl with this beautifully designed turntable. Its precision engineering ensures accurate tracking and a vibrant, lifelike sound that will delight any audiophile."
+      "shortDescription": "Precision-engineered turntable for vibrant sound.",
+      "longDescription": "Immerse yourself in the captivating world of vinyl with this beautifully designed turntable. Its precision engineering ensures accurate tracking and a vibrant, lifelike sound that will delight any audiophile."
     },
     {
       "id": 24,
@@ -330,8 +330,8 @@
       "price": 2399.95,
       "stock": 16,
       "discount": 20,
-      "short-description": "Authentic analog experience with stunning design.",
-      "long-description": "Bring your vinyl records to life with this exceptional turntable. It combines elegant aesthetics with high-fidelity performance, offering a deeply engaging and authentic analog listening experience."
+      "shortDescription": "Authentic analog experience with stunning design.",
+      "longDescription": "Bring your vinyl records to life with this exceptional turntable. It combines elegant aesthetics with high-fidelity performance, offering a deeply engaging and authentic analog listening experience."
     },
     {
       "id": 25,
@@ -343,8 +343,8 @@
       "price": 824.95,
       "stock": 12,
       "discount": 20,
-      "short-description": "Robust turntable for pristine vinyl playback.",
-      "long-description": "This sophisticated turntable is a testament to analog excellence, delivering a pristine and detailed sound from your vinyl collection. Its robust construction ensures optimal playback and minimal resonance."
+      "shortDescription": "Robust turntable for pristine vinyl playback.",
+      "longDescription": "This sophisticated turntable is a testament to analog excellence, delivering a pristine and detailed sound from your vinyl collection. Its robust construction ensures optimal playback and minimal resonance."
     },
     {
       "id": 26,
@@ -356,8 +356,8 @@
       "price": 1974.95,
       "stock": 5,
       "discount": 20,
-      "short-description": "High-performance turntable for ultimate detail.",
-      "long-description": "Discover the true magic of vinyl with this high-performance turntable. It meticulously extracts every detail from your records, providing an incredibly dynamic and emotionally resonant listening journey."
+      "shortDescription": "High-performance turntable for ultimate detail.",
+      "longDescription": "Discover the true magic of vinyl with this high-performance turntable. It meticulously extracts every detail from your records, providing an incredibly dynamic and emotionally resonant listening journey."
     },
     {
       "id": 27,
@@ -369,8 +369,8 @@
       "price": 1074.95,
       "stock": 4,
       "discount": 0,
-      "short-description": "Room-filling sound from these premium speakers.",
-      "long-description": "Fill your space with breathtaking audio from these premium loudspeakers. Engineered for acoustic perfection, they deliver a wide soundstage, precise imaging, and powerful, yet articulate bass."
+      "shortDescription": "Room-filling sound from these premium speakers.",
+      "longDescription": "Fill your space with breathtaking audio from these premium loudspeakers. Engineered for acoustic perfection, they deliver a wide soundstage, precise imaging, and powerful, yet articulate bass."
     },
     {
       "id": 28,
@@ -382,8 +382,8 @@
       "price": 1524.95,
       "stock": 3,
       "discount": 15,
-      "short-description": "Masterfully crafted loudspeakers for realism.",
-      "long-description": "Experience music the way it was meant to be heard with these masterfully crafted loudspeakers. They reproduce every instrument and vocal with stunning realism, drawing you deeper into your favorite tracks."
+      "shortDescription": "Masterfully crafted loudspeakers for realism.",
+      "longDescription": "Experience music the way it was meant to be heard with these masterfully crafted loudspeakers. They reproduce every instrument and vocal with stunning realism, drawing you deeper into your favorite tracks."
     },
     {
       "id": 29,
@@ -395,8 +395,8 @@
       "price": 3399.95,
       "stock": 17,
       "discount": 0,
-      "short-description": "Disappearing speakers, leaving only the music.",
-      "long-description": "These loudspeakers are designed to disappear, leaving only the music. Their exceptional clarity and natural tonal balance create an immersive listening experience, revealing the true essence of your recordings."
+      "shortDescription": "Disappearing speakers, leaving only the music.",
+      "longDescription": "These loudspeakers are designed to disappear, leaving only the music. Their exceptional clarity and natural tonal balance create an immersive listening experience, revealing the true essence of your recordings."
     },
     {
       "id": 30,
@@ -408,8 +408,8 @@
       "price": 2249.95,
       "stock": 5,
       "discount": 20,
-      "short-description": "Concert hall sound from high-fidelity speakers.",
-      "long-description": "Transform your room into a concert hall with these high-fidelity loudspeakers. They boast an expansive dynamic range and incredible detail, delivering a truly captivating and emotionally resonant audio performance."
+      "shortDescription": "Concert hall sound from high-fidelity speakers.",
+      "longDescription": "Transform your room into a concert hall with these high-fidelity loudspeakers. They boast an expansive dynamic range and incredible detail, delivering a truly captivating and emotionally resonant audio performance."
     },
     {
       "id": 31,
@@ -421,8 +421,8 @@
       "price": 3674.95,
       "stock": 0,
       "discount": 10,
-      "short-description": "Compact power, redefining sonic excellence.",
-      "long-description": "These compact yet powerful loudspeakers redefine sonic excellence. Their ability to reproduce intricate musical textures and deep, articulate bass will surprise and delight even the most discerning audiophiles."
+      "shortDescription": "Compact power, redefining sonic excellence.",
+      "longDescription": "These compact yet powerful loudspeakers redefine sonic excellence. Their ability to reproduce intricate musical textures and deep, articulate bass will surprise and delight even the most discerning audiophiles."
     },
     {
       "id": 32,
@@ -434,8 +434,8 @@
       "price": 774.95,
       "stock": 0,
       "discount": 15,
-      "short-description": "Warm, rich sound with vintage tube character.",
-      "long-description": "Indulge in the unmistakable warmth and rich harmonics of this classic tube amplifier. It imparts a delightful vintage character to your music, adding depth and emotion to every note."
+      "shortDescription": "Warm, rich sound with vintage tube character.",
+      "longDescription": "Indulge in the unmistakable warmth and rich harmonics of this classic tube amplifier. It imparts a delightful vintage character to your music, adding depth and emotion to every note."
     },
     {
       "id": 33,
@@ -447,8 +447,8 @@
       "price": 2274.95,
       "stock": 9,
       "discount": 15,
-      "short-description": "Captivating audio, lush analog feel.",
-      "long-description": "This tube amplifier offers a truly captivating audio experience, with its signature warm and inviting sound. It brings a new dimension to your music, enhancing clarity and adding a lush, analog feel."
+      "shortDescription": "Captivating audio, lush analog feel.",
+      "longDescription": "This tube amplifier offers a truly captivating audio experience, with its signature warm and inviting sound. It brings a new dimension to your music, enhancing clarity and adding a lush, analog feel."
     },
     {
       "id": 34,
@@ -460,8 +460,8 @@
       "price": 1674.95,
       "stock": 1,
       "discount": 10,
-      "short-description": "Legendary tube sound for engaging listening.",
-      "long-description": "Experience the legendary tube sound with this exquisite amplifier. Its rich, fluid presentation and natural dynamics create an incredibly engaging and fatigue-free listening experience that will keep you captivated."
+      "shortDescription": "Legendary tube sound for engaging listening.",
+      "longDescription": "Experience the legendary tube sound with this exquisite amplifier. Its rich, fluid presentation and natural dynamics create an incredibly engaging and fatigue-free listening experience that will keep you captivated."
     },
     {
       "id": 35,
@@ -473,8 +473,8 @@
       "price": 2574.95,
       "stock": 13,
       "discount": 20,
-      "short-description": "Timeless tube audio with natural soundstage.",
-      "long-description": "This tube amplifier is a testament to timeless audio engineering, delivering a beautifully natural and expansive soundstage. It brings out the soul of your music, with a warmth and realism that digital simply can't replicate."
+      "shortDescription": "Timeless tube audio with natural soundstage.",
+      "longDescription": "This tube amplifier is a testament to timeless audio engineering, delivering a beautifully natural and expansive soundstage. It brings out the soul of your music, with a warmth and realism that digital simply can't replicate."
     },
     {
       "id": 36,
@@ -486,8 +486,8 @@
       "price": 1799.95,
       "stock": 8,
       "discount": 5,
-      "short-description": "Immersive tube amplifier, detailed and musical.",
-      "long-description": "Dive into the captivating world of tube audio with this remarkable amplifier. Its smooth, articulate sound and impressive power output create an immersive listening experience that's both detailed and wonderfully musical."
+      "shortDescription": "Immersive tube amplifier, detailed and musical.",
+      "longDescription": "Dive into the captivating world of tube audio with this remarkable amplifier. Its smooth, articulate sound and impressive power output create an immersive listening experience that's both detailed and wonderfully musical."
     }
   ],
   "newsletter_list": []
