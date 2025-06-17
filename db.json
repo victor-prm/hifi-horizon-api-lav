@@ -30,14 +30,9 @@
         "body": "All items excluding ex-display and secondhand goods are covered by at least 12 months warranty; this is detailed on your receipt. Any secondhand or ex-display product is covered by at least 3 months warranty as noted in the original listing.\n\nHiFi Horizon cannot guarantee against any misuse (i.e. blown speakers etc.), commercial use, wear and tear, erosion of parts, loss of data stored on any form of writeable/hard drive devices, dead pixels of an amount not covered by the manufacturer’s specifications or where you have not allowed repairs of goods to be carried out by authorised agents. If it has been more than 30 days since you have received a product and discovered a fault, we will still repair the goods free of charge or, if you prefer, replace them provided that you report the fault within 12 months of purchase. If we are unable to repair or replace the item(s) we will provide you with a full refund instead.\n\nPlease note that if it is after the initial 30 days of purchase you must be able to certify the fault was present upon delivery and not by misuse."
       },
       {
-        "id": "refunds",
-        "subtitle": "### Refunds",
-        "body": "Once your returned item is received and inspected, we will send you an email or phone call to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.\n\nIf you are approved, then your refund will be processed, and a credit will automatically be applied to your original method of payment, within 3 working days. Please note we require an email address or contact number to arrange a refund that was purchased over the phone. There are certain situations where only partial refunds are granted or we cannot refund you; Any item not in its original condition, is damaged or missing parts for reasons not due to our error. Any damage that has been caused by misuse, such as a speaker drive unit being blown or water being introduced to the unit, or that has been damaged due to poor packing. Any item that is returned more than 30 days after delivery. In any instance, we will notify you as soon as possible to resolve this matter.\n\nIf you haven’t received a refund after confirmation, first check your bank account again. Then contact your credit card company, it may take some time before your refund is officially posted. Next contact your bank. There is often some processing time of a couple of days before a refund is posted. If you have done all of this and you still have not received your refund after 7 days, please contact us at sales@hifi-horizon.com."
-      },
-      {
         "id": "shipping",
         "subtitle": "### Shipping",
-        "body": "To return your product, you should mail your product to: 2 Joppa Road, Mackenzie House, Edinburgh, EH15 2EU.\n\nIf you would like to return an item, please note that we cannot arrange a collection of the item without additional cost; you will be responsible for ensuring the product reaches us. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund. Depending on where you live, the time it may take for your exchanged product to reach you may vary. We will process the refund when the item arrives with us.\n\nIf you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item."
+        "body": "To return your product, you should mail your product to:\n\n2 Joppa Road, Mackenzie House, Edinburgh, EH15 2EU.\n\nIf you would like to return an item, please note that we cannot arrange a collection of the item without additional cost; you will be responsible for ensuring the product reaches us. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund. Depending on where you live, the time it may take for your exchanged product to reach you may vary. We will process the refund when the item arrives with us.\n\nIf you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item."
       },
       {
         "id": "delivery",
@@ -45,19 +40,14 @@
         "body": "Please check the condition of all products delivered as soon as they are received. This does not affect your statutory rights. If there is a problem we would like to deal with this as soon as possible to alleviate any inconvenience to yourself.\n\nAs soon as we have delivered the goods to you, you will be responsible for them and any damage occasioned whilst in your possession. The majority of goods we send will require you to sign for them upon delivery. If you are not able to sign for a delivery, we will do our utmost to contact you to arrange when it is convenient to redeliver. Our responsibility for everything other than damage due to our negligence will end at the time the carrier tried to delivery the goods to you. If your product is visibly damaged in transit, please sign for the delivery as ‘damaged’ and let us know as soon as possible."
       },
       {
+        "id": "refunds",
+        "subtitle": "### Refunds",
+        "body": "Once your returned item is received and inspected, we will send you an email or phone call to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.\n\nIf you are approved, then your refund will be processed, and a credit will automatically be applied to your original method of payment, within 3 working days. Please note we require an email address or contact number to arrange a refund that was purchased over the phone. There are certain situations where only partial refunds are granted or we cannot refund you; Any item not in its original condition, is damaged or missing parts for reasons not due to our error. Any damage that has been caused by misuse, such as a speaker drive unit being blown or water being introduced to the unit, or that has been damaged due to poor packing. Any item that is returned more than 30 days after delivery. In any instance, we will notify you as soon as possible to resolve this matter.\n\nIf you haven’t received a refund after confirmation, first check your bank account again. Then contact your credit card company, it may take some time before your refund is officially posted. Next contact your bank. There is often some processing time of a couple of days before a refund is posted. If you have done all of this and you still have not received your refund after 7 days, please contact us at sales@hifi-horizon.com. \n\n#### Sale Items\n\nOnly regularly priced items may be refunded, unfortunately clearance, special order and outlet items cannot be refunded unless they are found to be faulty on arrival. For more details about returning secondhand or sale items, please contact sales@hifi-horizon.com."
+      },
+      {
         "id": "return-proces",
         "subtitle": "### Returns Process",
-        "body": "If you wish to return goods purchased online or over the phone, you should notify HiFi Horizon of your intention to do so within 14 days of the date of receipt.\n\nYou then have an additional 14 days to return the goods from this notification date (goods must be returned within 28 days). We will in such circumstances refund you the cost of your order, excluding postage or delivery cost. However, if goods are not returned 'as new' due to excessive handling on your part, or with components missing (including packing materials and manuals) we may make a reasonable deduction for this. Please do not send your product back to the manufacturer. We kindly ask that to make the refund process easier, that you include your receipt or proof of purchase and a cover letter detailing briefly why the item is being returned. We cannot refund the cost of delivery fees if there was an additional charge, only the cost of the goods themselves. We will process the refund when the item arrives with us. If you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item.\n\nPlease contact us before attempting to return your goods. For purchases bought in-store, you can also drop in and be refunded instantly."
-      },
-      {
-        "id": "sale-items",
-        "subtitle": "### Sale Items",
-        "body": "Only regularly priced items may be refunded, unfortunately clearance, special order and outlet items cannot be refunded unless they are found to be faulty on arrival. For more details about returning secondhand or sale items, please contact sales@hifi-horizon.com."
-      },
-      {
-        "id": "exchanges",
-        "subtitle": "### Exchanges",
-        "body": "We can only replace items if they are defective or damaged. If you need to exchange the product for the same item due to a fault, please first send us an email at sales@hifi-horizon.com and once approved, send your item to:\n\nHiFi Horizon, 2 Joppa Road, Mackenzie House, Portobello, Edinburgh, EH15 2EU.\n\nPlease also include the proof of purchase and a cover letter detailing the reason for exchange."
+        "body": "If you wish to return goods purchased online or over the phone, you should notify HiFi Horizon of your intention to do so within 14 days of the date of receipt.\n\nYou then have an additional 14 days to return the goods from this notification date (goods must be returned within 28 days). We will in such circumstances refund you the cost of your order, excluding postage or delivery cost. However, if goods are not returned 'as new' due to excessive handling on your part, or with components missing (including packing materials and manuals) we may make a reasonable deduction for this. Please do not send your product back to the manufacturer. We kindly ask that to make the refund process easier, that you include your receipt or proof of purchase and a cover letter detailing briefly why the item is being returned. We cannot refund the cost of delivery fees if there was an additional charge, only the cost of the goods themselves. We will process the refund when the item arrives with us. If you are shipping an item over £100, we would advise using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item.\n\nPlease contact us before attempting to return your goods. For purchases bought in-store, you can also drop in and be refunded instantly. \n\n#### Exchanges\n\nWe can only replace items if they are defective or damaged. If you need to exchange the product for the same item due to a fault, please first send us an email at sales@hifi-horizon.com and once approved, send your item to:\n\nHiFi Horizon, 2 Joppa Road, Mackenzie House, Portobello, Edinburgh, EH15 2EU.\n\nPlease also include the proof of purchase and a cover letter detailing the reason for exchange."
       }
     ]
   },
@@ -274,20 +264,6 @@
     },
     {
       "id": 16,
-      "img": "http://localhost:4000/filebucket/power_amps/power_amps/manley_snapper.jpg",
-      "name": "Amps/Manley Snapper",
-      "brand": "Power",
-      "category": "power_amps",
-      "color": "Black",
-      "price": 1025,
-      "stock": 20,
-      "popularity": 9,
-      "discount": 20,
-      "shortDescription": "High-current power for an expansive soundstage.",
-      "longDescription": "Elevate your audio system with this high-current power amplifier. It provides a stable and consistent power delivery, resulting in a rich, detailed, and expansive soundstage that fills your room."
-    },
-    {
-      "id": 17,
       "img": "http://localhost:4000/filebucket/power_amps/parasound_haloa23.jpg",
       "name": "Haloa23",
       "brand": "Parasound",
@@ -301,7 +277,7 @@
       "longDescription": "Designed for the ultimate audio experience, this power amplifier combines raw strength with delicate precision. It renders complex musical passages effortlessly, providing an unparalleled sense of realism and impact."
     },
     {
-      "id": 18,
+      "id": 17,
       "img": "http://localhost:4000/filebucket/preamps/Creek_OBH_22_Passive_Preamp.jpg",
       "name": "Obh 22 Passive Preamp",
       "brand": "Creek",
@@ -315,7 +291,7 @@
       "longDescription": "Take command of your audio with this precision preamplifier. Its transparent signal path and versatile connectivity options allow you to tailor your sound with exceptional clarity and control."
     },
     {
-      "id": 19,
+      "id": 18,
       "img": "http://localhost:4000/filebucket/preamps/parasound_classic7100.jpg",
       "name": "Classic7100",
       "brand": "Parasound",
@@ -329,7 +305,7 @@
       "longDescription": "This preamplifier is the cornerstone of a high-fidelity system, offering impeccable signal integrity and dynamic control. It ensures that every sonic detail is preserved, delivering a pure and engaging listening experience."
     },
     {
-      "id": 20,
+      "id": 19,
       "img": "http://localhost:4000/filebucket/preamps/parasound_halop3.jpg",
       "name": "Halop3",
       "brand": "Parasound",
@@ -343,7 +319,7 @@
       "longDescription": "Unlock the full potential of your audio components with this sophisticated preamplifier. Its advanced design minimizes noise and distortion, resulting in a remarkably clean, dynamic, and lifelike sound."
     },
     {
-      "id": 21,
+      "id": 20,
       "img": "http://localhost:4000/filebucket/preamps/Project_prebox.jpg",
       "name": "Prebox",
       "brand": "Pro-Ject",
@@ -357,7 +333,7 @@
       "longDescription": "Refine your sound with this audiophile-grade preamplifier, offering precise volume control and pristine signal amplification. It's the ideal choice for demanding listeners seeking ultimate sonic purity."
     },
     {
-      "id": 22,
+      "id": 21,
       "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_3_bl.jpg",
       "name": "Debut III Blue",
       "brand": "Pro-Ject",
@@ -371,7 +347,7 @@
       "longDescription": "Revisit your vinyl collection with this exquisitely crafted record player. It delivers a rich, warm, and detailed sound that truly captures the essence of analog audio, making every spin a nostalgic journey."
     },
     {
-      "id": 23,
+      "id": 22,
       "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_III_red_1.jpg",
       "name": "Debut III Red ",
       "brand": "Pro-Ject",
@@ -385,7 +361,7 @@
       "longDescription": "Immerse yourself in the captivating world of vinyl with this beautifully designed turntable. Its precision engineering ensures accurate tracking and a vibrant, lifelike sound that will delight any audiophile."
     },
     {
-      "id": 24,
+      "id": 23,
       "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_III_yellow_1.jpg",
       "name": "Debut III Yellow",
       "brand": "Pro-Ject",
@@ -399,7 +375,7 @@
       "longDescription": "Bring your vinyl records to life with this exceptional turntable. It combines elegant aesthetics with high-fidelity performance, offering a deeply engaging and authentic analog listening experience."
     },
     {
-      "id": 25,
+      "id": 24,
       "img": "http://localhost:4000/filebucket/record_players/Pro_ject_rpm_5.jpg",
       "name": "RPM 5",
       "brand": "Pro-Ject",
@@ -413,7 +389,7 @@
       "longDescription": "This sophisticated turntable is a testament to analog excellence, delivering a pristine and detailed sound from your vinyl collection. Its robust construction ensures optimal playback and minimal resonance."
     },
     {
-      "id": 26,
+      "id": 25,
       "img": "http://localhost:4000/filebucket/record_players/Pro_ject_rpm10.jpg",
       "name": "RPM 10",
       "brand": "Pro-Ject",
@@ -427,7 +403,7 @@
       "longDescription": "Discover the true magic of vinyl with this high-performance turntable. It meticulously extracts every detail from your records, providing an incredibly dynamic and emotionally resonant listening journey."
     },
     {
-      "id": 27,
+      "id": 26,
       "img": "http://localhost:4000/filebucket/speakers/boesendorfer_vcs_wall.gif",
       "name": "Vcs Wall",
       "brand": "Boesendorfer",
@@ -441,7 +417,7 @@
       "longDescription": "Fill your space with breathtaking audio from these premium loudspeakers. Engineered for acoustic perfection, they deliver a wide soundstage, precise imaging, and powerful, yet articulate bass."
     },
     {
-      "id": 28,
+      "id": 27,
       "img": "http://localhost:4000/filebucket/speakers/epos_m5.gif",
       "name": "M5",
       "brand": "Epos",
@@ -455,7 +431,7 @@
       "longDescription": "Experience music the way it was meant to be heard with these masterfully crafted loudspeakers. They reproduce every instrument and vocal with stunning realism, drawing you deeper into your favorite tracks."
     },
     {
-      "id": 29,
+      "id": 28,
       "img": "http://localhost:4000/filebucket/speakers/harbeth_hl7es2.jpg",
       "name": "Hl7Es2",
       "brand": "Harbeth",
@@ -469,7 +445,7 @@
       "longDescription": "These loudspeakers are designed to disappear, leaving only the music. Their exceptional clarity and natural tonal balance create an immersive listening experience, revealing the true essence of your recordings."
     },
     {
-      "id": 30,
+      "id": 29,
       "img": "http://localhost:4000/filebucket/speakers/harbeth_monitor30.jpg",
       "name": "Monitor30",
       "brand": "Harbeth",
@@ -483,7 +459,7 @@
       "longDescription": "Transform your room into a concert hall with these high-fidelity loudspeakers. They boast an expansive dynamic range and incredible detail, delivering a truly captivating and emotionally resonant audio performance."
     },
     {
-      "id": 31,
+      "id": 30,
       "img": "http://localhost:4000/filebucket/speakers/harbeth_p3es2.jpg",
       "name": "P3Es2",
       "brand": "Harbeth",
@@ -497,7 +473,7 @@
       "longDescription": "These compact yet powerful loudspeakers redefine sonic excellence. Their ability to reproduce intricate musical textures and deep, articulate bass will surprise and delight even the most discerning audiophiles."
     },
     {
-      "id": 32,
+      "id": 31,
       "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD102b.jpg",
       "name": "Jd102B",
       "brand": "Jolida",
@@ -511,7 +487,7 @@
       "longDescription": "Indulge in the unmistakable warmth and rich harmonics of this classic tube amplifier. It imparts a delightful vintage character to your music, adding depth and emotion to every note."
     },
     {
-      "id": 33,
+      "id": 32,
       "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD202a.jpg",
       "name": "Jd202A",
       "brand": "Jolida",
@@ -525,7 +501,7 @@
       "longDescription": "This tube amplifier offers a truly captivating audio experience, with its signature warm and inviting sound. It brings a new dimension to your music, enhancing clarity and adding a lush, analog feel."
     },
     {
-      "id": 34,
+      "id": 33,
       "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD300b.jpg",
       "name": "Jd300B",
       "brand": "Jolida",
@@ -539,7 +515,7 @@
       "longDescription": "Experience the legendary tube sound with this exquisite amplifier. Its rich, fluid presentation and natural dynamics create an incredibly engaging and fatigue-free listening experience that will keep you captivated."
     },
     {
-      "id": 35,
+      "id": 34,
       "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD302b.jpg",
       "name": "Jd302B",
       "brand": "Jolida",
@@ -553,7 +529,7 @@
       "longDescription": "This tube amplifier is a testament to timeless audio engineering, delivering a beautifully natural and expansive soundstage. It brings out the soul of your music, with a warmth and realism that digital simply can't replicate."
     },
     {
-      "id": 36,
+      "id": 35,
       "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD502b.jpg",
       "name": "Jd502B",
       "brand": "Jolida",
