@@ -20,10 +20,13 @@ npm start
 /register                   POST
 ```
 ```
+/contact_inquiries          POST
+```
+```
 /products                   GET
 ```
 ```
-/newsletter_list            GET / PATCH
+/newsletter_list            GET / POST
 ```
 ```
 /users/*id*                 GET / PATCH
