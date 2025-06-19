@@ -574,5 +574,14 @@
       "longDescription": "Dive into the captivating world of tube audio with this remarkable amplifier. Its smooth, articulate sound and impressive power output create an immersive listening experience that's both detailed and wonderfully musical."
     }
   ],
-  "newsletter_list": []
+  "newsletter_list": [],
+  "contact_inquiries": [
+    {
+      "name": "John Doe",
+      "email": "jd@mail.com",
+      "subject": "Congratulations on your new shop",
+      "message": "Your site looks wonderful",
+      "id": 1
+    }
+  ]
 }
