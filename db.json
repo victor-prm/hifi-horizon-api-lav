@@ -18,6 +18,24 @@
       "email": "test2@test.dk",
       "password": "$2a$10$Fvupx2YiR3GT.sD60UdNJu5VwUQwOO6s1ZPcmpW1muLsvM4uYsUBm",
       "id": 3
+    },
+    {
+      "email": "test3@test.dk",
+      "password": "$2a$10$Ig/sLv7oKJ2a/VG2pEK.jOy5K3p/hz2HO0DJVdr01u6HdOmp.FTYW",
+      "id": 4
+    },
+    {
+      "email": "test4@test.dk",
+      "password": "$2a$10$Zwg8PDZRx43.SITQtSVH4Onhwu0c3K5xzWXbkDVFa9f5cJFTZUMHK",
+      "id": 5
+    },
+    {
+      "email": "test5@test.dk",
+      "password": "$2a$10$cgsqIr9sOrSf5GLAUht7iuQWW2zm.tGnoZTYJOFB8RXlRTJAofujK",
+      "id": 6,
+      "name": "John Test",
+      "marketing": true,
+      "country": "Germany"
     }
   ],
   "faq": {
