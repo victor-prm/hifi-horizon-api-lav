@@ -14,19 +14,22 @@ npm start
 
 ## Endpoints:
 ```
-/login                      POST
+/login              POST
 ```
 ```
-/register                   POST
+/register           POST
 ```
 ```
-/products                   GET
+/products           GET
 ```
 ```
-/newsletter_list            GET / PATCH
+/newsletter_list    GET / PATCH
 ```
 ```
-/users/*id*                 GET / PATCH
+/users/*id*         GET / PATCH (JWT SESSION TOKEN REQ.)
+```
+```
+/me/                GET (JWT SESSION TOKEN REQ.)
 ```
 
 Read about `json-server` to learn how to do things like pagination and limitation on https://www.npmjs.com/package/json-server
