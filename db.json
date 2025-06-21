@@ -257,6 +257,66 @@
           ]
         }
       ]
+    },
+    {
+      "id": "p7",
+      "name": "DP-UB450 4K",
+      "brand": "Panasonic",
+      "category": "blu_ray_players",
+      "description": "Super compact and affordable 4K Ultra HD Blu-ray player with everything you need for your home cinema. Supports almost all formats",
+      "variants": [
+        {
+          "id": "p7bl",
+          "color": "black",
+          "price": 250,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "name": "DP-UB820 4K",
+      "brand": "Panasonic",
+      "category": "blu_ray_players",
+      "description": "4K Ultra HD Blu-ray player for high-end home cinemas. Handles almost every format imaginable and has a stylish and compact design.",
+      "variants": [
+        {
+          "id": "p8bl",
+          "color": "black",
+          "price": 500,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "name": "DP-UB9000 4K",
+      "brand": "Panasonic",
+      "category": "blu_ray_players",
+      "description": "4K Ultra HD Blu-ray player for the ambitious home cinema. Handles almost every format imaginable and is heavy and solidly made of metal.",
+      "variants": [
+        {
+          "id": "p9bl",
+          "color": "black",
+          "price": 1000,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg"
+          ]
+        }
+      ]
     }
   ],
   "newsletter_list": [],
