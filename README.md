@@ -13,23 +13,37 @@ npm start
 ```
 
 ## Endpoints:
+### To log in:
 ```
-/login                      POST
+/login              POST
 ```
+### To sign up:
 ```
-/register                   POST
+/register           POST
 ```
+### To get product list:
 ```
-/contact_inquiries          POST
+/products           GET
 ```
+### To get product detail by id:
 ```
-/products                   GET
+/products/*id*      GET
 ```
+### To get/add to newsletter list:
 ```
-/newsletter_list            GET / POST
+/newsletter_list    GET / POST
 ```
+### To add to contact inquiries list:
 ```
-/users/*id*                 GET / PATCH
+/contact_inquiries  POST
+```
+### To get a user by id:
+```
+/users/*id*         GET / PATCH (JWT SESSION TOKEN REQ.)
+```
+### To get user with current session token:
+```
+/me                 GET (JWT SESSION TOKEN REQ.)
 ```
 
 Read about `json-server` to learn how to do things like pagination and limitation on https://www.npmjs.com/package/json-server
