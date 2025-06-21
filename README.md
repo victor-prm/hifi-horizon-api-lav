@@ -48,6 +48,13 @@ To get/add to newsletter list:
 
 ---
 
+To add to contact inquiries list:
+```
+/contact_inquiries  POST
+```
+
+---
+
 To get a user by id:
 ```
 /users/*id*         GET / PATCH (JWT SESSION TOKEN REQ.)
