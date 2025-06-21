@@ -13,56 +13,35 @@ npm start
 ```
 
 ## Endpoints:
-To log in:
+### To log in:
 ```
 /login              POST
 ```
-
----
-
-To sign up:
+### To sign up:
 ```
 /register           POST
 ```
-
----
-
-To get product list:
+### To get product list:
 ```
 /products           GET
 ```
-
----
-
-To get product detail by id:
+### To get product detail by id:
 ```
 /products/*id*      GET
 ```
-
----
-
-To get/add to newsletter list:
+### To get/add to newsletter list:
 ```
 /newsletter_list    GET / POST
 ```
-
----
-
-To add to contact inquiries list:
+### To add to contact inquiries list:
 ```
 /contact_inquiries  POST
 ```
-
----
-
-To get a user by id:
+### To get a user by id:
 ```
 /users/*id*         GET / PATCH (JWT SESSION TOKEN REQ.)
 ```
-
----
-
-To get user with current session token:
+### To get user with current session token:
 ```
 /me                 GET (JWT SESSION TOKEN REQ.)
 ```
