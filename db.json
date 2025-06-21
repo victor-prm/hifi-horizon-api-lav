@@ -79,494 +79,184 @@
   ],
   "products": [
     {
-      "id": 1,
-      "img": "http://localhost:4000/filebucket/cd_players/creek_classic_cd.jpg",
-      "name": "Classic Cd",
-      "brand": "Creek",
+      "id": "p1",
+      "name": "DCD-600NE",
+      "brand": "Denon",
       "category": "cd_players",
-      "color": "Metallic",
-      "price": 525,
-      "stock": 14,
-      "popularity": 83,
-      "discount": 15,
-      "shortDescription": "Pristine audio reproduction for CD enthusiasts.",
-      "longDescription": "Immerse yourself in pristine audio with this top-tier CD player, designed for exceptional clarity and dynamic range. Every note is reproduced with stunning accuracy, revealing subtle nuances you've never heard before."
+      "description": "Solid and well-playing CD player that will enhance your collection for years to come. Beautifully finished in real aluminium.",
+      "variants": [
+        {
+          "id": "p1bl",
+          "color": "black",
+          "price": 325,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg",
+            "img/black_4.jpeg",
+            "img/black_5.jpeg"
+          ]
+        },
+        {
+          "id": "p1mt",
+          "color": "metallic",
+          "price": 325,
+          "stock": 10,
+          "images": [
+            "img/metallic_1.jpeg",
+            "img/metallic_2.jpeg",
+            "img/metallic_3.jpeg",
+            "img/metallic_4.jpeg",
+            "img/metallic_5.jpeg"
+          ]
+        }
+      ]
     },
     {
-      "id": 2,
-      "img": "http://localhost:4000/filebucket/cd_players/creek_Destiny_CD.jpg",
-      "name": "Destiny Cd",
-      "brand": "Creek",
+      "id": "p2",
+      "name": "DCD-900NE",
+      "brand": "Denon",
       "category": "cd_players",
-      "color": "Metallic",
-      "price": 550,
-      "stock": 19,
-      "popularity": 42,
-      "discount": 0,
-      "shortDescription": "Next-level CD playback with enhanced clarity.",
-      "longDescription": "Experience your music collection anew with this advanced CD player. Its superior decoding and playback capabilities deliver an expansive soundstage and breathtaking detail, making every listening session an event."
+      "description": "Solid, advanced and well-playing CD player with USB input for high-resolution music files. Beautiful real aluminium finish",
+      "variants": [
+        {
+          "id": "p2bl",
+          "color": "black",
+          "price": 400,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg",
+            "img/black_4.jpeg",
+            "img/black_5.jpeg"
+          ]
+        },
+        {
+          "id": "p2mt",
+          "color": "metallic",
+          "price": 400,
+          "stock": 10,
+          "images": [
+            "img/metallic_1.jpeg",
+            "img/metallic_2.jpeg",
+            "img/metallic_3.jpeg",
+            "img/metallic_4.jpeg",
+            "img/metallic_5.jpeg"
+          ]
+        }
+      ]
     },
     {
-      "id": 3,
-      "img": "http://localhost:4000/filebucket/cd_players/creek_evo_cd.jpg",
-      "name": "Evo Cd",
-      "brand": "Creek",
+      "id": "p3",
+      "name": "DCD-1700NE",
+      "brand": "Denon",
       "category": "cd_players",
-      "color": "Metallic",
-      "price": 1025,
-      "stock": 2,
-      "popularity": 77,
-      "discount": 5,
-      "shortDescription": "Audiophile-grade CD player for discerning ears.",
-      "longDescription": "This audiophile-grade CD player elevates your listening experience with its precise engineering. Enjoy rich, vibrant sound and an unparalleled level of musicality, bringing your favorite artists directly into your living room."
+      "description": "Wring the full quality out of your beloved CD and SACD collection with this audiophile player. Beautifully finished in real aluminium.",
+      "variants": [
+        {
+          "id": "p3bl",
+          "color": "black",
+          "price": 1250,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg",
+            "img/black_4.jpeg",
+            "img/black_5.jpeg"
+          ]
+        },
+        {
+          "id": "p3mt",
+          "color": "metallic",
+          "price": 1250,
+          "stock": 10,
+          "images": [
+            "img/metallic_1.jpeg",
+            "img/metallic_2.jpeg",
+            "img/metallic_3.jpeg",
+            "img/metallic_4.jpeg",
+            "img/metallic_5.jpeg"
+          ]
+        }
+      ]
     },
     {
-      "id": 4,
-      "img": "http://localhost:4000/filebucket/cd_players/Exp_2010S_CD.gif",
-      "name": "2010S Cd",
-      "brand": "Exposure",
+      "id": "p4",
+      "name": "DCD-3000NE",
+      "brand": "Denon",
       "category": "cd_players",
-      "color": "Metallic",
-      "price": 850,
-      "stock": 10,
-      "popularity": 70,
-      "discount": 0,
-      "shortDescription": "Unleash full CD potential with dynamic sound.",
-      "longDescription": "Unleash the full potential of your CDs with this high-performance player. It offers exceptional sonic purity and a wide dynamic range, ensuring every track is rendered with authenticity and emotional impact."
+      "description": "Discover how good your CDs can really sound on this uncompromising player. Also a feast for the eyes with its stunning aluminium finish.",
+      "variants": [
+        {
+          "id": "p4bl",
+          "color": "black",
+          "price": 2150,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg",
+            "img/black_4.jpeg",
+            "img/black_5.jpeg"
+          ]
+        },
+        {
+          "id": "p4mt",
+          "color": "metallic",
+          "price": 2150,
+          "stock": 10,
+          "images": [
+            "img/metallic_1.jpeg",
+            "img/metallic_2.jpeg",
+            "img/metallic_3.jpeg",
+            "img/metallic_4.jpeg",
+            "img/metallic_5.jpeg"
+          ]
+        }
+      ]
     },
     {
-      "id": 5,
-      "img": "http://localhost:4000/filebucket/dvd_players/creek_classic.jpg",
-      "name": "Classic",
-      "brand": "Creek",
-      "category": "dvd_players",
-      "color": "Metallic",
-      "price": 825,
-      "stock": 5,
-      "popularity": 64,
-      "discount": 10,
-      "shortDescription": "Premium DVD player for immersive visuals and audio.",
-      "longDescription": "Step into a world of immersive entertainment with this versatile DVD player. It delivers stunning visual fidelity and audiophile-grade sound, making it perfect for both movies and music playback."
+      "id": "p5",
+      "name": "C538",
+      "brand": "NAD",
+      "category": "cd_players",
+      "description": "Enjoy your CD collection with full audio value for money. Get premium components and thoughtful solutions for years of great sound",
+      "variants": [
+        {
+          "id": "p5bl",
+          "color": "black",
+          "price": 350,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg"
+          ]
+        }
+      ]
     },
     {
-      "id": 6,
-      "img": "http://localhost:4000/filebucket/dvd_players/exposure_2010S.jpg",
-      "name": "2010S",
-      "brand": "Pro-Ject ",
-      "category": "dvd_players",
-      "color": "Metallic",
-      "price": 700,
-      "stock": 9,
-      "popularity": 80,
-      "discount": 15,
-      "shortDescription": "Crisp video and detailed sound from this DVD player.",
-      "longDescription": "Experience crystal-clear video and rich, detailed audio with this high-quality DVD player. Its robust design ensures reliable performance, bringing your favorite films and concerts to life with exceptional precision."
-    },
-    {
-      "id": 7,
-      "img": "http://localhost:4000/filebucket/dvd_players/parasound_d200.jpg",
-      "name": "D200",
-      "brand": "Parasound",
-      "category": "dvd_players",
-      "color": "Black",
-      "price": 1000,
-      "stock": 1,
-      "popularity": 79,
-      "discount": 10,
-      "shortDescription": "Home theater essential: superb DVD and audio.",
-      "longDescription": "This meticulously engineered DVD player is a cornerstone for any home theater, delivering vibrant images and a nuanced sound profile. Enjoy every scene and every soundtrack with unparalleled depth and clarity."
-    },
-    {
-      "id": 8,
-      "img": "http://localhost:4000/filebucket/dvd_players/parasound_halod3.jpg",
-      "name": "Halod3",
-      "brand": "Parasound",
-      "category": "dvd_players",
-      "color": "Metallic",
-      "price": 1275,
-      "stock": 15,
-      "popularity": 78,
-      "discount": 5,
-      "shortDescription": "Cinematic audio and video with this DVD player.",
-      "longDescription": "Unlock a truly cinematic experience with this premium DVD player. Its advanced processing ensures stunning video playback and a captivating audio performance, making it an essential component for discerning viewers."
-    },
-    {
-      "id": 9,
-      "img": "http://localhost:4000/filebucket/integrated_amps/creek_a50I.jpg",
-      "name": "A50I",
-      "brand": "Creek",
-      "category": "integrated_amps",
-      "color": "Metallic",
-      "price": 1275,
-      "stock": 7,
-      "popularity": 33,
-      "discount": 20,
-      "shortDescription": "Powerful integrated amp for dynamic audio.",
-      "longDescription": "This integrated amplifier is a powerhouse of sound, combining robust power with refined control. It delivers a dynamic and detailed audio experience, perfect for bringing out the best in your speakers."
-    },
-    {
-      "id": 10,
-      "img": "http://localhost:4000/filebucket/integrated_amps/creek_classic5350SE.jpg",
-      "name": "Classic5350Se",
-      "brand": "Creek",
-      "category": "integrated_amps",
-      "color": "Metallic",
-      "price": 1825,
-      "stock": 16,
-      "popularity": 28,
-      "discount": 10,
-      "shortDescription": "Pure sound and powerful performance in one unit.",
-      "longDescription": "Experience pure audio bliss with this integrated amplifier, crafted for sonic purity and powerful performance. Its meticulous design ensures a clean signal path and exceptional clarity across all frequencies."
-    },
-    {
-      "id": 11,
-      "img": "http://localhost:4000/filebucket/integrated_amps/creek_destinyamp.jpg",
-      "name": "Destinyamp",
-      "brand": "Creek",
-      "category": "integrated_amps",
-      "color": "Metallic",
-      "price": 1525,
-      "stock": 9,
-      "popularity": 36,
-      "discount": 20,
-      "shortDescription": "Rich, full-bodied sound from this integrated amp.",
-      "longDescription": "This integrated amplifier provides the perfect blend of power and finesse, delivering a rich, full-bodied sound that will transform your listening space. Its intuitive controls make it a joy to operate."
-    },
-    {
-      "id": 12,
-      "img": "http://localhost:4000/filebucket/integrated_amps/manley_snapper.jpg",
-      "name": "Snapper",
-      "brand": "Manley",
-      "category": "integrated_amps",
-      "color": "Black",
-      "price": 1275,
-      "stock": 4,
-      "popularity": 29,
-      "discount": 10,
-      "shortDescription": "Unleash your audio system's true potential.",
-      "longDescription": "Unlock the true potential of your audio system with this robust integrated amplifier. It offers exceptional headroom and a wide dynamic range, ensuring your music is delivered with impact and precision."
-    },
-    {
-      "id": 13,
-      "img": "http://localhost:4000/filebucket/integrated_amps/Manley_Stingray.jpg",
-      "name": "Stingray",
-      "brand": "Manley",
-      "category": "integrated_amps",
-      "color": "Black",
-      "price": 2300,
-      "stock": 4,
-      "popularity": 21,
-      "discount": 5,
-      "shortDescription": "Uncompromising sound quality for audiophiles.",
-      "longDescription": "This integrated amplifier is engineered for audio enthusiasts who demand uncompromising sound quality. Its sophisticated circuitry provides a captivating listening experience, revealing every nuance of your favorite tracks."
-    },
-    {
-      "id": 14,
-      "img": "http://localhost:4000/filebucket/power_amps/manley_mahi.jpg",
-      "name": "Mahi",
-      "brand": "Manley",
-      "category": "power_amps",
-      "color": "Black",
-      "price": 2475,
-      "stock": 4,
-      "popularity": 11,
-      "discount": 10,
-      "shortDescription": "Authoritative power for demanding speakers.",
-      "longDescription": "Drive your speakers to their full potential with this exceptionally powerful amplifier. Designed for stability and sonic purity, it delivers an authoritative and transparent sound, even with the most challenging loads."
-    },
-    {
-      "id": 15,
-      "img": "http://localhost:4000/filebucket/power_amps/manley_neoclassic300b.jpg",
-      "name": "Neoclassic300B",
-      "brand": "Manley",
-      "category": "power_amps",
-      "color": "Metallic",
-      "price": 2975,
-      "stock": 20,
-      "popularity": 14,
-      "discount": 0,
-      "shortDescription": "Unadulterated audio performance power amp.",
-      "longDescription": "This power amplifier is built to deliver unadulterated audio performance. Its massive power reserves and pristine signal reproduction ensure every note is rendered with stunning dynamics and incredible accuracy."
-    },
-    {
-      "id": 16,
-      "img": "http://localhost:4000/filebucket/power_amps/parasound_haloa23.jpg",
-      "name": "Haloa23",
-      "brand": "Parasound",
-      "category": "power_amps",
-      "color": "Metallic",
-      "price": 2925,
-      "stock": 5,
-      "popularity": 22,
-      "discount": 5,
-      "shortDescription": "Precision and strength for ultimate audio.",
-      "longDescription": "Designed for the ultimate audio experience, this power amplifier combines raw strength with delicate precision. It renders complex musical passages effortlessly, providing an unparalleled sense of realism and impact."
-    },
-    {
-      "id": 17,
-      "img": "http://localhost:4000/filebucket/preamps/Creek_OBH_22_Passive_Preamp.jpg",
-      "name": "Obh 22 Passive Preamp",
-      "brand": "Creek",
-      "category": "preamps",
-      "color": "Metallic",
-      "price": 825,
-      "stock": 12,
-      "popularity": 8,
-      "discount": 20,
-      "shortDescription": "Refined control and transparent signal path.",
-      "longDescription": "Take command of your audio with this precision preamplifier. Its transparent signal path and versatile connectivity options allow you to tailor your sound with exceptional clarity and control."
-    },
-    {
-      "id": 18,
-      "img": "http://localhost:4000/filebucket/preamps/parasound_classic7100.jpg",
-      "name": "Classic7100",
-      "brand": "Parasound",
-      "category": "preamps",
-      "color": "Black",
-      "price": 950,
-      "stock": 6,
-      "popularity": 19,
-      "discount": 10,
-      "shortDescription": "Pristine audio signal with dynamic control.",
-      "longDescription": "This preamplifier is the cornerstone of a high-fidelity system, offering impeccable signal integrity and dynamic control. It ensures that every sonic detail is preserved, delivering a pure and engaging listening experience."
-    },
-    {
-      "id": 19,
-      "img": "http://localhost:4000/filebucket/preamps/parasound_halop3.jpg",
-      "name": "Halop3",
-      "brand": "Parasound",
-      "category": "preamps",
-      "color": "Metallic",
-      "price": 1025,
-      "stock": 18,
-      "popularity": 40,
-      "discount": 0,
-      "shortDescription": "Advanced preamplifier for crystal-clear sound.",
-      "longDescription": "Unlock the full potential of your audio components with this sophisticated preamplifier. Its advanced design minimizes noise and distortion, resulting in a remarkably clean, dynamic, and lifelike sound."
-    },
-    {
-      "id": 20,
-      "img": "http://localhost:4000/filebucket/preamps/Project_prebox.jpg",
-      "name": "Prebox",
-      "brand": "Pro-Ject",
-      "category": "preamps",
-      "color": "Metallic",
-      "price": 1525,
-      "stock": 8,
-      "popularity": 35,
-      "discount": 0,
-      "shortDescription": "Audiophile-grade preamp for ultimate purity.",
-      "longDescription": "Refine your sound with this audiophile-grade preamplifier, offering precise volume control and pristine signal amplification. It's the ideal choice for demanding listeners seeking ultimate sonic purity."
-    },
-    {
-      "id": 21,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_3_bl.jpg",
-      "name": "Debut III Blue",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Blue",
-      "price": 1775,
-      "stock": 5,
-      "popularity": 3,
-      "discount": 5,
-      "shortDescription": "Rediscover vinyl with this elegant turntable.",
-      "longDescription": "Revisit your vinyl collection with this exquisitely crafted record player. It delivers a rich, warm, and detailed sound that truly captures the essence of analog audio, making every spin a nostalgic journey."
-    },
-    {
-      "id": 22,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_III_red_1.jpg",
-      "name": "Debut III Red ",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Red",
-      "price": 1425,
-      "stock": 6,
-      "popularity": 5,
-      "discount": 15,
-      "shortDescription": "Precision-engineered turntable for vibrant sound.",
-      "longDescription": "Immerse yourself in the captivating world of vinyl with this beautifully designed turntable. Its precision engineering ensures accurate tracking and a vibrant, lifelike sound that will delight any audiophile."
-    },
-    {
-      "id": 23,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_III_yellow_1.jpg",
-      "name": "Debut III Yellow",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Yellow",
-      "price": 2400,
-      "stock": 16,
-      "popularity": 18,
-      "discount": 20,
-      "shortDescription": "Authentic analog experience with stunning design.",
-      "longDescription": "Bring your vinyl records to life with this exceptional turntable. It combines elegant aesthetics with high-fidelity performance, offering a deeply engaging and authentic analog listening experience."
-    },
-    {
-      "id": 24,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_rpm_5.jpg",
-      "name": "RPM 5",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Black",
-      "price": 825,
-      "stock": 12,
-      "popularity": 26,
-      "discount": 20,
-      "shortDescription": "Robust turntable for pristine vinyl playback.",
-      "longDescription": "This sophisticated turntable is a testament to analog excellence, delivering a pristine and detailed sound from your vinyl collection. Its robust construction ensures optimal playback and minimal resonance."
-    },
-    {
-      "id": 25,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_rpm10.jpg",
-      "name": "RPM 10",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Black",
-      "price": 1975,
-      "stock": 5,
-      "popularity": 31,
-      "discount": 20,
-      "shortDescription": "High-performance turntable for ultimate detail.",
-      "longDescription": "Discover the true magic of vinyl with this high-performance turntable. It meticulously extracts every detail from your records, providing an incredibly dynamic and emotionally resonant listening journey."
-    },
-    {
-      "id": 26,
-      "img": "http://localhost:4000/filebucket/speakers/boesendorfer_vcs_wall.gif",
-      "name": "Vcs Wall",
-      "brand": "Boesendorfer",
-      "category": "speakers",
-      "color": "Black",
-      "price": 1075,
-      "stock": 4,
-      "popularity": 17,
-      "discount": 0,
-      "shortDescription": "Room-filling sound from these premium speakers.",
-      "longDescription": "Fill your space with breathtaking audio from these premium loudspeakers. Engineered for acoustic perfection, they deliver a wide soundstage, precise imaging, and powerful, yet articulate bass."
-    },
-    {
-      "id": 27,
-      "img": "http://localhost:4000/filebucket/speakers/epos_m5.gif",
-      "name": "M5",
-      "brand": "Epos",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 1525,
-      "stock": 3,
-      "popularity": 7,
-      "discount": 15,
-      "shortDescription": "Masterfully crafted loudspeakers for realism.",
-      "longDescription": "Experience music the way it was meant to be heard with these masterfully crafted loudspeakers. They reproduce every instrument and vocal with stunning realism, drawing you deeper into your favorite tracks."
-    },
-    {
-      "id": 28,
-      "img": "http://localhost:4000/filebucket/speakers/harbeth_hl7es2.jpg",
-      "name": "Hl7Es2",
-      "brand": "Harbeth",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 3400,
-      "stock": 17,
-      "popularity": 16,
-      "discount": 0,
-      "shortDescription": "Disappearing speakers, leaving only the music.",
-      "longDescription": "These loudspeakers are designed to disappear, leaving only the music. Their exceptional clarity and natural tonal balance create an immersive listening experience, revealing the true essence of your recordings."
-    },
-    {
-      "id": 29,
-      "img": "http://localhost:4000/filebucket/speakers/harbeth_monitor30.jpg",
-      "name": "Monitor30",
-      "brand": "Harbeth",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 2250,
-      "stock": 5,
-      "popularity": 20,
-      "discount": 20,
-      "shortDescription": "Concert hall sound from high-fidelity speakers.",
-      "longDescription": "Transform your room into a concert hall with these high-fidelity loudspeakers. They boast an expansive dynamic range and incredible detail, delivering a truly captivating and emotionally resonant audio performance."
-    },
-    {
-      "id": 30,
-      "img": "http://localhost:4000/filebucket/speakers/harbeth_p3es2.jpg",
-      "name": "P3Es2",
-      "brand": "Harbeth",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 3675,
-      "stock": 0,
-      "popularity": 34,
-      "discount": 10,
-      "shortDescription": "Compact power, redefining sonic excellence.",
-      "longDescription": "These compact yet powerful loudspeakers redefine sonic excellence. Their ability to reproduce intricate musical textures and deep, articulate bass will surprise and delight even the most discerning audiophiles."
-    },
-    {
-      "id": 31,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD102b.jpg",
-      "name": "Jd102B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "White",
-      "price": 775,
-      "stock": 0,
-      "popularity": 32,
-      "discount": 15,
-      "shortDescription": "Warm, rich sound with vintage tube character.",
-      "longDescription": "Indulge in the unmistakable warmth and rich harmonics of this classic tube amplifier. It imparts a delightful vintage character to your music, adding depth and emotion to every note."
-    },
-    {
-      "id": 32,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD202a.jpg",
-      "name": "Jd202A",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "Metallic",
-      "price": 2275,
-      "stock": 9,
-      "popularity": 25,
-      "discount": 15,
-      "shortDescription": "Captivating audio, lush analog feel.",
-      "longDescription": "This tube amplifier offers a truly captivating audio experience, with its signature warm and inviting sound. It brings a new dimension to your music, enhancing clarity and adding a lush, analog feel."
-    },
-    {
-      "id": 33,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD300b.jpg",
-      "name": "Jd300B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "Metallic",
-      "price": 1675,
-      "stock": 1,
-      "popularity": 38,
-      "discount": 10,
-      "shortDescription": "Legendary tube sound for engaging listening.",
-      "longDescription": "Experience the legendary tube sound with this exquisite amplifier. Its rich, fluid presentation and natural dynamics create an incredibly engaging and fatigue-free listening experience that will keep you captivated."
-    },
-    {
-      "id": 34,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD302b.jpg",
-      "name": "Jd302B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "White",
-      "price": 2575,
-      "stock": 13,
-      "popularity": 57,
-      "discount": 20,
-      "shortDescription": "Timeless tube audio with natural soundstage.",
-      "longDescription": "This tube amplifier is a testament to timeless audio engineering, delivering a beautifully natural and expansive soundstage. It brings out the soul of your music, with a warmth and realism that digital simply can't replicate."
-    },
-    {
-      "id": 35,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD502b.jpg",
-      "name": "Jd502B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "White",
-      "price": 1800,
-      "stock": 8,
-      "popularity": 56,
-      "discount": 5,
-      "shortDescription": "Immersive tube amplifier, detailed and musical.",
-      "longDescription": "Dive into the captivating world of tube audio with this remarkable amplifier. Its smooth, articulate sound and impressive power output create an immersive listening experience that's both detailed and wonderfully musical."
+      "id": "p6",
+      "name": "CD-2",
+      "brand": "Lyngdorf",
+      "category": "cd_players",
+      "description": "If you don't want to settle for second best for your CD collection, this is your solution. Superb sound quality in exclusive slimline aluminium design",
+      "variants": [
+        {
+          "id": "p6bl",
+          "color": "black",
+          "price": 2500,
+          "stock": 10,
+          "images": [
+            "img/black_1.jpeg",
+            "img/black_2.jpeg",
+            "img/black_3.jpeg"
+          ]
+        }
+      ]
     }
   ],
   "newsletter_list": [],
