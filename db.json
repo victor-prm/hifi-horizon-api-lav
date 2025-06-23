@@ -1267,6 +1267,219 @@
         "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_2.jpeg",
         "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_3.jpeg"
       ]
+    },
+    {
+      "id": "p52",
+      "name": "LS50 Wireless II",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Wireless active speakers in a unique compact design. Enjoy music and TV sound in great hi-fi quality without a large system and cables.",
+      "slug": "kef_ls50_wireless_ii",
+      "price": 1500,
+      "stock": 20,
+      "rating": 9.4,
+      "discount": 0,
+      "colors": [
+        "black",
+        "gray",
+        "red",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/gray_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/red_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/red_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/white_2.jpeg"
+      ]
+    },
+    {
+      "id": "p53",
+      "name": "LS60 Wireless",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Wireless floorstanding speakers in a unique super slim design. Enjoy music and TV sound in true high-end quality without a large system and cables.",
+      "slug": "kef_ls60_wireless",
+      "price": 4825,
+      "stock": 15,
+      "rating": 9.3,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "gray",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/blue_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/blue_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p54",
+      "name": "LSX II",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Wireless active speakers in a unique super-compact design. Get the true hi-fi experience for streaming music, computer and TV sound.",
+      "slug": "kef_lsx_ii",
+      "price": 1150,
+      "stock": 19,
+      "rating": 9.5,
+      "discount": 20,
+      "colors": [
+        "black",
+        "blue",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p55",
+      "name": "LSX II LT",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Experience true hi-fi for streaming music, computer and TV sound with these wireless active speakers in a unique super-compact design.",
+      "slug": "kef_lsx_ii_lt",
+      "price": 875,
+      "stock": 8,
+      "rating": 9.5,
+      "discount": 0,
+      "colors": [
+        "black",
+        "green",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/green_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/green_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/green_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p56",
+      "name": "FR-1 Gabriel",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Elegant flat design, exclusive finish, superb hi-fi quality sound. You get the whole package in a discreet, living room-friendly wall speaker.",
+      "slug": "lyngdorf_fr-1_gabriel",
+      "price": 575,
+      "stock": 9,
+      "rating": 8.6,
+      "discount": 25,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p57",
+      "name": "FR-2",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Excellent full-range sound from a flat and elegant floorstanding speaker. Get the whole package for a living room-friendly hi-fi solution without compromise.",
+      "slug": "lyngdorf_fr-2",
+      "price": 3325,
+      "stock": 18,
+      "rating": 8.7,
+      "discount": 15,
+      "colors": [
+        "gray",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/white_2.jpeg"
+      ]
+    },
+    {
+      "id": "p58",
+      "name": "MH-2 Gabriel",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Premium sound from a flat, elegant and discreet in-wall speaker. Add a subwoofer and you're there with your interior design intact!",
+      "slug": "lyngdorf_mh-2_gabriel",
+      "price": 450,
+      "stock": 7,
+      "rating": 8.3,
+      "discount": 0,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p59",
+      "name": "MH-3 Gabriel",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Great sound from a compact and discreet wall-mounted speaker. Attach a subwoofer and you're there with your home decor intact!",
+      "slug": "lyngdorf_mh-3_gabriel",
+      "price": 425,
+      "stock": 11,
+      "rating": 8.2,
+      "discount": 10,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_3.jpeg"
+      ]
     }
   ]
 }
