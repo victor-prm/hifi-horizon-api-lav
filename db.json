@@ -1032,6 +1032,241 @@
         "http://localhost:4000/filebucket/record_players/pro-ject_x8/white_1.jpeg",
         "http://localhost:4000/filebucket/record_players/pro-ject_x8/white_2.jpeg"
       ]
+    },
+    {
+      "id": "p43",
+      "name": "Beosound 2 (3rd Gen)",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "Unique wireless speaker designed with an originality and attention to detail that you will only find at Bang & Olufsen.",
+      "slug": "bang_and_olufsen_beosound_2_3rd_gen",
+      "price": 2750,
+      "stock": 8,
+      "rating": 9.8,
+      "discount": 0,
+      "colors": [
+        "black",
+        "gold",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/gold_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/gold_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/gold_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/metallic_3.jpeg"
+      ]
+    },
+    {
+      "id": "p44",
+      "name": "Beosound A1 (3rd Gen)",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "Unique and exclusive Bluetooth speaker with world-class design. Plays for up to 24 hours and is designed for both mobile music and phone calls.",
+      "slug": "bang_and_olufsen_beosound_a1_3rd_gen",
+      "price": 300,
+      "stock": 17,
+      "rating": 8.9,
+      "discount": 20,
+      "colors": [
+        "copper",
+        "green",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/copper_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/copper_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/copper_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/green_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/green_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/green_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/metallic_3.jpeg"
+      ]
+    },
+    {
+      "id": "p45",
+      "name": "Beosound A9 (5th Gen)",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "A truly unique wireless speaker with world-class sound quality, raw power and finish. Iconic design with real wood legs.",
+      "slug": "bang_and_olufsen_beosound_a9_5th_gen",
+      "price": 2925,
+      "stock": 11,
+      "rating": 9.7,
+      "discount": 20,
+      "colors": [
+        "black",
+        "gold",
+        "gray"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gold_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gold_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gold_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gray_3.jpeg"
+      ]
+    },
+    {
+      "id": "p46",
+      "name": "Beosound Explore",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "The speaker for those who want ultra-portable, robust and stylish. Great sound for its size and battery life up to 27 hours.",
+      "slug": "bang_and_olufsen_beosound_explore",
+      "price": 225,
+      "stock": 11,
+      "rating": 8.7,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "gray",
+        "green"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/blue_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/blue_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/gray_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/green_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/green_2.jpeg"
+      ]
+    },
+    {
+      "id": "p47",
+      "name": "Era 100",
+      "brand": "Sonos",
+      "category": "Speakers (Movable)",
+      "description": "Smart and compact wireless speaker that is a great entry point to the exciting Sonos universe. Includes multi-room, Bluetooth and voice control.",
+      "slug": "sonos_era_100",
+      "price": 200,
+      "stock": 25,
+      "rating": 8.4,
+      "discount": 20,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p48",
+      "name": "Era 300",
+      "brand": "Sonos",
+      "category": "Speakers (Movable)",
+      "description": "Super smart wireless speaker that can surround you with music on all sides via built-in Dolby Atmos. Includes multi-room and Bluetooth.",
+      "slug": "sonos_era_300",
+      "price": 375,
+      "stock": 15,
+      "rating": 8.4,
+      "discount": 10,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p49",
+      "name": "Five",
+      "brand": "Sonos",
+      "category": "Speakers (Movable)",
+      "description": "Powerful wireless multi-room speaker that can be used in both small and large rooms and for countless purposes. Two pieces can be combined for stereo.",
+      "slug": "sonos_five",
+      "price": 500,
+      "stock": 20,
+      "rating": 8.5,
+      "discount": 5,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p50",
+      "name": "4 (USB-C)",
+      "brand": "SOUNDBOKS",
+      "category": "Speakers (Movable)",
+      "description": "Heavy-duty Bluetooth speaker with battery for party music for 40 hours or even more. Sets the mood for all parties and events.",
+      "slug": "soundboks_4_usb-c",
+      "price": 925,
+      "stock": 18,
+      "rating": 9.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_5.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_6.jpeg"
+      ]
+    },
+    {
+      "id": "p51",
+      "name": "Go (USB-C)",
+      "brand": "SOUNDBOKS",
+      "category": "Speakers (Movable)",
+      "description": "The compact SOUNDBOKS Go is your faithful companion for parties, festivals, events and socialising with friends. Enjoy great music anywhere for up to 40 hours!",
+      "slug": "soundboks_go_usb-c",
+      "price": 575,
+      "stock": 20,
+      "rating": 9.0,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_3.jpeg"
+      ]
     }
   ]
 }
