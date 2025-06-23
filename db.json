@@ -789,6 +789,249 @@
         "http://localhost:4000/filebucket/power_amps/nad_c298/black_3.jpeg",
         "http://localhost:4000/filebucket/power_amps/nad_c298/black_4.jpeg"
       ]
+    },
+    {
+      "id": "p32",
+      "name": "P30",
+      "brand": "Hegel",
+      "category": "Preamps",
+      "description": "Is only the best good enough? Hegel's uncompromising preamplifier is your guarantee for outstanding analogue sound quality on your system.",
+      "slug": "hegel_p30",
+      "price": 5500,
+      "stock": 7,
+      "rating": 8.8,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_3.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p33",
+      "name": "P30A",
+      "brand": "Hegel",
+      "category": "Preamps",
+      "description": "Only satisfied with the best? This is Hegel's improved version of the uncompromising P30 - guaranteeing outstanding analogue sound quality on your system.",
+      "slug": "hegel_p30a",
+      "price": 6900,
+      "stock": 6,
+      "rating": 9.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_3.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p34",
+      "name": "C658",
+      "brand": "NAD",
+      "category": "Preamps",
+      "description": "Superb hi-fi music streamer and preamplifier in one. Includes built-in Bluesound and smart two-way Bluetooth for wireless headphones.",
+      "slug": "nad_c658",
+      "price": 1725,
+      "stock": 2,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/nad_c658/black_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_c658/black_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_c658/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p35",
+      "name": "M66",
+      "brand": "NAD",
+      "category": "Preamps",
+      "description": "High-end streaming stereo DAC preamplifier that handles almost any task, including individual calibration of up to 4 subwoofers.",
+      "slug": "nad_m66",
+      "price": 6300,
+      "stock": 14,
+      "rating": 8.9,
+      "discount": 0,
+      "colors": [
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_5.jpeg"
+      ]
+    },
+    {
+      "id": "p36",
+      "name": "DP-29F",
+      "brand": "Denon",
+      "category": "Record Players",
+      "description": "Why throw your discs in the basement when you can put them back on the plate for a small fee? Ready to go incl. pickup, suitable for all systems.",
+      "slug": "denon_dp-29f",
+      "price": 175,
+      "stock": 21,
+      "rating": 8.1,
+      "discount": 10,
+      "colors": [
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_5.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_6.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_7.jpeg"
+      ]
+    },
+    {
+      "id": "p37",
+      "name": "DP-300F",
+      "brand": "Denon",
+      "category": "Record Players",
+      "description": "Fully automatic quality turntable with built-in RIAA amplifier and factory-installed pickup. Easy and easy to play!",
+      "slug": "denon_dp-300f",
+      "price": 375,
+      "stock": 16,
+      "rating": 8.0,
+      "discount": 0,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/white_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/white_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p38",
+      "name": "DP-400",
+      "brand": "Denon",
+      "category": "Record Players",
+      "description": "Quality turntable with pre-installed pickup, autostop and built-in RIAA amplifier so you can connect directly to any system.",
+      "slug": "denon_dp-400",
+      "price": 475,
+      "stock": 0,
+      "rating": 8.4,
+      "discount": 25,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_5.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_5.jpeg"
+      ]
+    },
+    {
+      "id": "p39",
+      "name": "C558",
+      "brand": "NAD",
+      "category": "Record Players",
+      "description": "Make your vinyl collection sparkle with a serious hi-fi turntable. Simple, solid and proven technology with high quality down to the last detail.",
+      "slug": "nad_c558",
+      "price": 450,
+      "stock": 12,
+      "rating": 8.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_5.jpeg"
+      ]
+    },
+    {
+      "id": "p40",
+      "name": "C588",
+      "brand": "NAD",
+      "category": "Record Players",
+      "description": "Solid and advanced turntable for the audiophile enthusiast. Here you get the extra quality that takes your music experience to the next level.",
+      "slug": "nad_c588",
+      "price": 750,
+      "stock": 14,
+      "rating": 8.6,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p41",
+      "name": "Debut Carbon EVO",
+      "brand": "Pro-Ject",
+      "category": "Record Players",
+      "description": "Indulge your eyes, ears and vinyl with vibrant colours, serious hi-fi solutions and exclusive carbon fibre tonearm. Ready to go with Ortofon 2M Red pickup.",
+      "slug": "pro-ject_debut_carbon_evo",
+      "price": 550,
+      "stock": 9,
+      "rating": 8.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p42",
+      "name": "X8",
+      "brand": "Pro-Ject",
+      "category": "Record Players",
+      "description": "Heavy audiophile hi-fi turntable with fully balanced construction and top quality in every detail. Comes ready to go with Ortofon MC pickup.",
+      "slug": "pro-ject_x8",
+      "price": 2300,
+      "stock": 16,
+      "rating": 8.8,
+      "discount": 15,
+      "colors": [
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/pro-ject_x8/white_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_x8/white_2.jpeg"
+      ]
     }
   ]
 }
