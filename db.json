@@ -82,7 +82,7 @@
       "id": "p1",
       "name": "DP-UB450 4K",
       "brand": "Panasonic",
-      "category": "Blu-ray players",
+      "category": "Blu-ray Players",
       "description": "Super compact and affordable 4K Ultra HD Blu-ray player with everything you need for your home cinema. Supports almost all formats.",
       "slug": "panasonic_dp-ub450_4k",
       "price": 250,
@@ -103,7 +103,7 @@
       "id": "p2",
       "name": "DP-UB820 4K",
       "brand": "Panasonic",
-      "category": "Blu-ray players",
+      "category": "Blu-ray Players",
       "description": "4K Ultra HD Blu-ray player for high-end home cinemas. Handles almost every format imaginable and has a stylish and compact design.",
       "slug": "panasonic_dp-ub820_4k",
       "price": 500,
@@ -124,7 +124,7 @@
       "id": "p3",
       "name": "DP-UB9000 4K",
       "brand": "Panasonic",
-      "category": "Blu-ray players",
+      "category": "Blu-ray Players",
       "description": "4K Ultra HD Blu-ray player for the ambitious home cinema. Handles almost every format imaginable and is heavy and solidly made of metal",
       "slug": "panasonic_dp-ub9000_4k",
       "price": 1025,
@@ -289,6 +289,317 @@
       "images": [
         "http://localhost:4000/filebucket/cd_players/nad_c538/black_1.jpeg",
         "http://localhost:4000/filebucket/cd_players/nad_c538/black_2.jpeg"
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "Beoplay H100",
+      "brand": "Bang & Olufsen",
+      "category": "Headphones",
+      "description": "Ultimate wireless luxury over-ear headphones with excellent hi-fi sound, superb finish and smooth operation. Pure world class!",
+      "slug": "bang_and_olufsen_beoplay_h100",
+      "price": 1425,
+      "stock": 5,
+      "rating": 9.4,
+      "discount": 5,
+      "colors": [
+        "black",
+        "copper",
+        "gold"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/copper_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/copper_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/copper_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/gold_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/gold_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/gold_3.jpeg"
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "Beoplay HX",
+      "brand": "Bang & Olufsen",
+      "category": "Headphones",
+      "description": "Enjoy your music in style with these exclusive wireless over-ear headphones. Advanced ANC, touch control and world-class design!",
+      "slug": "bang_and_olufsen_beoplay_hx",
+      "price": 525,
+      "stock": 15,
+      "rating": 8.9,
+      "discount": 10,
+      "colors": [
+        "black",
+        "copper",
+        "gold"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/copper_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/copper_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/copper_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/gold_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/gold_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/gold_3.jpeg"
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "Beoplay Portal",
+      "brand": "Bang & Olufsen",
+      "category": "Headphones",
+      "description": "Unique and exclusive gaming headset with great sound for both games and music. Together with Xbox you get perfect wireless functionality and extra comfort.",
+      "slug": "bang_and_olufsen_beoplay_portal",
+      "price": 400,
+      "stock": 4,
+      "rating": 8.2,
+      "discount": 15,
+      "colors": [
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_4.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_5.jpeg"
+      ]
+    },
+    {
+      "id": "p13",
+      "name": "Ace",
+      "brand": "Sonos",
+      "category": "Headphones",
+      "description": "Take great Sonos sound on the go and surround yourself with your Sonos TV soundbar with these exclusive headphones.",
+      "slug": "sonos_ace",
+      "price": 375,
+      "stock": 17,
+      "rating": 8.0,
+      "discount": 10,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/sonos_ace/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p14",
+      "name": "WH-1000XM5",
+      "brand": "Sony",
+      "category": "Headphones",
+      "description": "Great wireless sound quality with world-class noise cancellation (ANC). Super comfortable design with great finish.",
+      "slug": "sony_wh-1000xm5",
+      "price": 275,
+      "stock": 8,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/blue_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/blue_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/pink_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/pink_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p15",
+      "name": "WH-1000XM6",
+      "brand": "Sony",
+      "category": "Headphones",
+      "description": "Great wireless sound quality with world-class noise cancellation (ANC). Sleek, comfortable and fully collapsible lightweight design.",
+      "slug": "sony_wh-1000xm6",
+      "price": 400,
+      "stock": 12,
+      "rating": 8.8,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/blue_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/blue_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/blue_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "H120",
+      "brand": "Hegel",
+      "category": "Integrated Amps",
+      "description": "Get the true Hegel experience and advanced capabilities from a solid and elegant amplifier. A true gem for serious music lovers.",
+      "slug": "hegel_h120",
+      "price": 2175,
+      "stock": 9,
+      "rating": 9.3,
+      "discount": 15,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/white_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/white_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p17",
+      "name": "H400",
+      "brand": "Hegel",
+      "category": "Integrated Amps",
+      "description": "Heavy analogue stereo amplifier with 2 x 250 watts, advanced streaming and plenty of options for both analogue and digital music sources.",
+      "slug": "hegel_h400",
+      "price": 5975,
+      "stock": 3,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p18",
+      "name": "H600",
+      "brand": "Hegel",
+      "category": "Integrated Amps",
+      "description": "Is only the best good enough for your system? Hegel's H600 top amplifier is the answer to your hottest musical dreams!",
+      "slug": "hegel_h600",
+      "price": 9900,
+      "stock": 1,
+      "rating": 9.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p19",
+      "name": "TDAI-2210",
+      "brand": "Lyngdorf",
+      "category": "Integrated Amps",
+      "description": "Crystal clear digital hi-fi sound, built-in streaming, RoomPerfect room correction, super sleek compact design and plenty of power. What more could you want?",
+      "slug": "lyngdorf_tdai-2210",
+      "price": 3450,
+      "stock": 8,
+      "rating": 8.9,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_4.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_5.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_6.jpeg"
+      ]
+    },
+    {
+      "id": "p20",
+      "name": "C316 V2",
+      "brand": "NAD",
+      "category": "Integrated Amps",
+      "description": "Music first - No nonsense. The classic NAD universe starts here with great sound for every penny. Includes dedicated turntable input.",
+      "slug": "nad_c316_v2",
+      "price": 350,
+      "stock": 10,
+      "rating": 8.0,
+      "discount": 20,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/nad_c316_v2/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c316_v2/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c316_v2/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p21",
+      "name": "C328",
+      "brand": "NAD",
+      "category": "Integrated Amps",
+      "description": "Step into the future with a compact and advanced amplifier with Bluetooth and countless possibilities for both digital and analogue music.",
+      "slug": "nad_c328",
+      "price": 575,
+      "stock": 15,
+      "rating": 8.1,
+      "discount": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/nad_c328/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c328/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c328/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p22",
+      "name": "C338",
+      "brand": "NAD",
+      "category": "Integrated Amps",
+      "description": "Step into the future with Chromecast built-in wireless music streaming and countless possibilities for both digital and analogue music!",
+      "slug": "nad_c338",
+      "price": 625,
+      "stock": 10,
+      "rating": 8.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_4.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_5.jpeg"
       ]
     }
   ]
