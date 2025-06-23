@@ -80,253 +80,216 @@
   "products": [
     {
       "id": "p1",
-      "name": "DCD-600NE",
-      "brand": "Denon",
-      "category": "cd_players",
-      "description": "Solid and well-playing CD player that will enhance your collection for years to come. Beautifully finished in real aluminium.",
-      "variants": [
-        {
-          "id": "p1bl",
-          "color": "black",
-          "price": 325,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg",
-            "img/black_4.jpeg",
-            "img/black_5.jpeg"
-          ]
-        },
-        {
-          "id": "p1mt",
-          "color": "metallic",
-          "price": 325,
-          "stock": 10,
-          "images": [
-            "img/metallic_1.jpeg",
-            "img/metallic_2.jpeg",
-            "img/metallic_3.jpeg",
-            "img/metallic_4.jpeg",
-            "img/metallic_5.jpeg"
-          ]
-        }
+      "name": "DP-UB450 4K",
+      "brand": "Panasonic",
+      "category": "Blu-ray players",
+      "description": "Super compact and affordable 4K Ultra HD Blu-ray player with everything you need for your home cinema. Supports almost all formats.",
+      "slug": "panasonic_dp-ub450_4k",
+      "price": 250,
+      "stock": 18,
+      "rating": 8.1,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_1.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_2.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_3.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_4.jpeg"
       ]
     },
     {
       "id": "p2",
-      "name": "DCD-900NE",
-      "brand": "Denon",
-      "category": "cd_players",
-      "description": "Solid, advanced and well-playing CD player with USB input for high-resolution music files. Beautiful real aluminium finish",
-      "variants": [
-        {
-          "id": "p2bl",
-          "color": "black",
-          "price": 400,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg",
-            "img/black_4.jpeg",
-            "img/black_5.jpeg"
-          ]
-        },
-        {
-          "id": "p2mt",
-          "color": "metallic",
-          "price": 400,
-          "stock": 10,
-          "images": [
-            "img/metallic_1.jpeg",
-            "img/metallic_2.jpeg",
-            "img/metallic_3.jpeg",
-            "img/metallic_4.jpeg",
-            "img/metallic_5.jpeg"
-          ]
-        }
+      "name": "DP-UB820 4K",
+      "brand": "Panasonic",
+      "category": "Blu-ray players",
+      "description": "4K Ultra HD Blu-ray player for high-end home cinemas. Handles almost every format imaginable and has a stylish and compact design.",
+      "slug": "panasonic_dp-ub820_4k",
+      "price": 500,
+      "stock": 19,
+      "rating": 8.4,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_1.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_2.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_3.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_4.jpeg"
       ]
     },
     {
       "id": "p3",
-      "name": "DCD-1700NE",
-      "brand": "Denon",
-      "category": "cd_players",
-      "description": "Wring the full quality out of your beloved CD and SACD collection with this audiophile player. Beautifully finished in real aluminium.",
-      "variants": [
-        {
-          "id": "p3bl",
-          "color": "black",
-          "price": 1250,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg",
-            "img/black_4.jpeg",
-            "img/black_5.jpeg"
-          ]
-        },
-        {
-          "id": "p3mt",
-          "color": "metallic",
-          "price": 1250,
-          "stock": 10,
-          "images": [
-            "img/metallic_1.jpeg",
-            "img/metallic_2.jpeg",
-            "img/metallic_3.jpeg",
-            "img/metallic_4.jpeg",
-            "img/metallic_5.jpeg"
-          ]
-        }
+      "name": "DP-UB9000 4K",
+      "brand": "Panasonic",
+      "category": "Blu-ray players",
+      "description": "4K Ultra HD Blu-ray player for the ambitious home cinema. Handles almost every format imaginable and is heavy and solidly made of metal",
+      "slug": "panasonic_dp-ub9000_4k",
+      "price": 1025,
+      "stock": 19,
+      "rating": 8.8,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_1.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_2.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_3.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_4.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_5.jpeg"
       ]
     },
     {
       "id": "p4",
-      "name": "DCD-3000NE",
+      "name": "DCD-600NE",
       "brand": "Denon",
-      "category": "cd_players",
-      "description": "Discover how good your CDs can really sound on this uncompromising player. Also a feast for the eyes with its stunning aluminium finish.",
-      "variants": [
-        {
-          "id": "p4bl",
-          "color": "black",
-          "price": 2150,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg",
-            "img/black_4.jpeg",
-            "img/black_5.jpeg"
-          ]
-        },
-        {
-          "id": "p4mt",
-          "color": "metallic",
-          "price": 2150,
-          "stock": 10,
-          "images": [
-            "img/metallic_1.jpeg",
-            "img/metallic_2.jpeg",
-            "img/metallic_3.jpeg",
-            "img/metallic_4.jpeg",
-            "img/metallic_5.jpeg"
-          ]
-        }
+      "category": "CD Players",
+      "description": "Solid and well-playing CD player that will enhance your collection for years to come. Beautiful real aluminium finish",
+      "slug": "denon_dcd-600ne",
+      "price": 325,
+      "stock": 2,
+      "rating": 8.1,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_4.jpeg"
       ]
     },
     {
       "id": "p5",
-      "name": "C538",
-      "brand": "NAD",
-      "category": "cd_players",
-      "description": "Enjoy your CD collection with full audio value for money. Get premium components and thoughtful solutions for years of great sound",
-      "variants": [
-        {
-          "id": "p5bl",
-          "color": "black",
-          "price": 350,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg"
-          ]
-        }
+      "name": "DCD-900NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Solid, advanced and well-playing CD player with USB input for high-resolution music files. Beautiful real aluminium finish.",
+      "slug": "denon_dcd-900ne",
+      "price": 400,
+      "stock": 7,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_5.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_5.jpeg"
       ]
     },
     {
       "id": "p6",
-      "name": "CD-2",
-      "brand": "Lyngdorf",
-      "category": "cd_players",
-      "description": "If you don't want to settle for second best for your CD collection, this is your solution. Superb sound quality in exclusive slimline aluminium design",
-      "variants": [
-        {
-          "id": "p6bl",
-          "color": "black",
-          "price": 2500,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg"
-          ]
-        }
+      "name": "DCD-1700NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Wring the full quality out of your beloved CD and SACD collection with this audiophile player. Beautifully finished in real aluminium.",
+      "slug": "denon_dcd-1700ne",
+      "price": 1275,
+      "stock": 14,
+      "rating": 8.9,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_5.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_5.jpeg"
       ]
     },
     {
       "id": "p7",
-      "name": "DP-UB450 4K",
-      "brand": "Panasonic",
-      "category": "blu_ray_players",
-      "description": "Super compact and affordable 4K Ultra HD Blu-ray player with everything you need for your home cinema. Supports almost all formats",
-      "variants": [
-        {
-          "id": "p7bl",
-          "color": "black",
-          "price": 250,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg"
-          ]
-        }
+      "name": "DCD-3000NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Discover how good your CDs can really sound on this uncompromising player. Also a feast for the eyes with its stunning aluminium finish.",
+      "slug": "denon_dcd-3000ne",
+      "price": 2175,
+      "stock": 5,
+      "rating": 8.7,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_5.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_5.jpeg"
       ]
     },
     {
       "id": "p8",
-      "name": "DP-UB820 4K",
-      "brand": "Panasonic",
-      "category": "blu_ray_players",
-      "description": "4K Ultra HD Blu-ray player for high-end home cinemas. Handles almost every format imaginable and has a stylish and compact design.",
-      "variants": [
-        {
-          "id": "p8bl",
-          "color": "black",
-          "price": 500,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg"
-          ]
-        }
+      "name": "CD-2",
+      "brand": "Lyngdorf",
+      "category": "CD Players",
+      "description": "If you don't want to settle for second best for your CD collection, this is your solution. Superb sound quality in an exclusive slimline aluminium design.",
+      "slug": "lyngdorf_cd-2",
+      "price": 2525,
+      "stock": 5,
+      "rating": 9.2,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/lyngdorf_cd-2/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/lyngdorf_cd-2/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/lyngdorf_cd-2/black_3.jpeg"
       ]
     },
     {
       "id": "p9",
-      "name": "DP-UB9000 4K",
-      "brand": "Panasonic",
-      "category": "blu_ray_players",
-      "description": "4K Ultra HD Blu-ray player for the ambitious home cinema. Handles almost every format imaginable and is heavy and solidly made of metal.",
-      "variants": [
-        {
-          "id": "p9bl",
-          "color": "black",
-          "price": 1000,
-          "stock": 10,
-          "images": [
-            "img/black_1.jpeg",
-            "img/black_2.jpeg",
-            "img/black_3.jpeg"
-          ]
-        }
+      "name": "C538",
+      "brand": "NAD",
+      "category": "CD Players",
+      "description": "Enjoy your CD collection with full audio value for money. You get premium components and thoughtful solutions for years of great sound.",
+      "slug": "nad_c538",
+      "price": 350,
+      "stock": 7,
+      "rating": 8.3,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/nad_c538/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/nad_c538/black_2.jpeg"
       ]
-    }
-  ],
-  "newsletter_list": [],
-  "contact_inquiries": [
-    {
-      "name": "John Doe",
-      "email": "jd@mail.com",
-      "subject": "Congratulations on your new shop",
-      "message": "Your site looks wonderful",
-      "id": 1
     }
   ]
 }
