@@ -1481,5 +1481,15 @@
         "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_3.jpeg"
       ]
     }
+  ],
+  "newsletter_list": [],
+  "contact_inquiries": [
+    {
+      "name": "John Doe",
+      "email": "jd@mail.com",
+      "subject": "Congratulations on your new shop",
+      "message": "Your site looks wonderful",
+      "id": 1
+    }
   ]
 }
