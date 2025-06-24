@@ -79,494 +79,1407 @@
   ],
   "products": [
     {
-      "id": 1,
-      "img": "http://localhost:4000/filebucket/cd_players/creek_classic_cd.jpg",
-      "name": "Classic Cd",
-      "brand": "Creek",
-      "category": "cd_players",
-      "color": "Metallic",
-      "price": 525,
-      "stock": 14,
-      "popularity": 83,
-      "discount": 15,
-      "shortDescription": "Pristine audio reproduction for CD enthusiasts.",
-      "longDescription": "Immerse yourself in pristine audio with this top-tier CD player, designed for exceptional clarity and dynamic range. Every note is reproduced with stunning accuracy, revealing subtle nuances you've never heard before."
-    },
-    {
-      "id": 2,
-      "img": "http://localhost:4000/filebucket/cd_players/creek_Destiny_CD.jpg",
-      "name": "Destiny Cd",
-      "brand": "Creek",
-      "category": "cd_players",
-      "color": "Metallic",
-      "price": 550,
-      "stock": 19,
-      "popularity": 42,
-      "discount": 0,
-      "shortDescription": "Next-level CD playback with enhanced clarity.",
-      "longDescription": "Experience your music collection anew with this advanced CD player. Its superior decoding and playback capabilities deliver an expansive soundstage and breathtaking detail, making every listening session an event."
-    },
-    {
-      "id": 3,
-      "img": "http://localhost:4000/filebucket/cd_players/creek_evo_cd.jpg",
-      "name": "Evo Cd",
-      "brand": "Creek",
-      "category": "cd_players",
-      "color": "Metallic",
-      "price": 1025,
-      "stock": 2,
-      "popularity": 77,
-      "discount": 5,
-      "shortDescription": "Audiophile-grade CD player for discerning ears.",
-      "longDescription": "This audiophile-grade CD player elevates your listening experience with its precise engineering. Enjoy rich, vibrant sound and an unparalleled level of musicality, bringing your favorite artists directly into your living room."
-    },
-    {
-      "id": 4,
-      "img": "http://localhost:4000/filebucket/cd_players/Exp_2010S_CD.gif",
-      "name": "2010S Cd",
-      "brand": "Exposure",
-      "category": "cd_players",
-      "color": "Metallic",
-      "price": 850,
-      "stock": 10,
-      "popularity": 70,
-      "discount": 0,
-      "shortDescription": "Unleash full CD potential with dynamic sound.",
-      "longDescription": "Unleash the full potential of your CDs with this high-performance player. It offers exceptional sonic purity and a wide dynamic range, ensuring every track is rendered with authenticity and emotional impact."
-    },
-    {
-      "id": 5,
-      "img": "http://localhost:4000/filebucket/dvd_players/creek_classic.jpg",
-      "name": "Classic",
-      "brand": "Creek",
-      "category": "dvd_players",
-      "color": "Metallic",
-      "price": 825,
-      "stock": 5,
-      "popularity": 64,
-      "discount": 10,
-      "shortDescription": "Premium DVD player for immersive visuals and audio.",
-      "longDescription": "Step into a world of immersive entertainment with this versatile DVD player. It delivers stunning visual fidelity and audiophile-grade sound, making it perfect for both movies and music playback."
-    },
-    {
-      "id": 6,
-      "img": "http://localhost:4000/filebucket/dvd_players/exposure_2010S.jpg",
-      "name": "2010S",
-      "brand": "Pro-Ject ",
-      "category": "dvd_players",
-      "color": "Metallic",
-      "price": 700,
-      "stock": 9,
-      "popularity": 80,
-      "discount": 15,
-      "shortDescription": "Crisp video and detailed sound from this DVD player.",
-      "longDescription": "Experience crystal-clear video and rich, detailed audio with this high-quality DVD player. Its robust design ensures reliable performance, bringing your favorite films and concerts to life with exceptional precision."
-    },
-    {
-      "id": 7,
-      "img": "http://localhost:4000/filebucket/dvd_players/parasound_d200.jpg",
-      "name": "D200",
-      "brand": "Parasound",
-      "category": "dvd_players",
-      "color": "Black",
-      "price": 1000,
-      "stock": 1,
-      "popularity": 79,
-      "discount": 10,
-      "shortDescription": "Home theater essential: superb DVD and audio.",
-      "longDescription": "This meticulously engineered DVD player is a cornerstone for any home theater, delivering vibrant images and a nuanced sound profile. Enjoy every scene and every soundtrack with unparalleled depth and clarity."
-    },
-    {
-      "id": 8,
-      "img": "http://localhost:4000/filebucket/dvd_players/parasound_halod3.jpg",
-      "name": "Halod3",
-      "brand": "Parasound",
-      "category": "dvd_players",
-      "color": "Metallic",
-      "price": 1275,
-      "stock": 15,
-      "popularity": 78,
-      "discount": 5,
-      "shortDescription": "Cinematic audio and video with this DVD player.",
-      "longDescription": "Unlock a truly cinematic experience with this premium DVD player. Its advanced processing ensures stunning video playback and a captivating audio performance, making it an essential component for discerning viewers."
-    },
-    {
-      "id": 9,
-      "img": "http://localhost:4000/filebucket/integrated_amps/creek_a50I.jpg",
-      "name": "A50I",
-      "brand": "Creek",
-      "category": "integrated_amps",
-      "color": "Metallic",
-      "price": 1275,
-      "stock": 7,
-      "popularity": 33,
-      "discount": 20,
-      "shortDescription": "Powerful integrated amp for dynamic audio.",
-      "longDescription": "This integrated amplifier is a powerhouse of sound, combining robust power with refined control. It delivers a dynamic and detailed audio experience, perfect for bringing out the best in your speakers."
-    },
-    {
-      "id": 10,
-      "img": "http://localhost:4000/filebucket/integrated_amps/creek_classic5350SE.jpg",
-      "name": "Classic5350Se",
-      "brand": "Creek",
-      "category": "integrated_amps",
-      "color": "Metallic",
-      "price": 1825,
-      "stock": 16,
-      "popularity": 28,
-      "discount": 10,
-      "shortDescription": "Pure sound and powerful performance in one unit.",
-      "longDescription": "Experience pure audio bliss with this integrated amplifier, crafted for sonic purity and powerful performance. Its meticulous design ensures a clean signal path and exceptional clarity across all frequencies."
-    },
-    {
-      "id": 11,
-      "img": "http://localhost:4000/filebucket/integrated_amps/creek_destinyamp.jpg",
-      "name": "Destinyamp",
-      "brand": "Creek",
-      "category": "integrated_amps",
-      "color": "Metallic",
-      "price": 1525,
-      "stock": 9,
-      "popularity": 36,
-      "discount": 20,
-      "shortDescription": "Rich, full-bodied sound from this integrated amp.",
-      "longDescription": "This integrated amplifier provides the perfect blend of power and finesse, delivering a rich, full-bodied sound that will transform your listening space. Its intuitive controls make it a joy to operate."
-    },
-    {
-      "id": 12,
-      "img": "http://localhost:4000/filebucket/integrated_amps/manley_snapper.jpg",
-      "name": "Snapper",
-      "brand": "Manley",
-      "category": "integrated_amps",
-      "color": "Black",
-      "price": 1275,
-      "stock": 4,
-      "popularity": 29,
-      "discount": 10,
-      "shortDescription": "Unleash your audio system's true potential.",
-      "longDescription": "Unlock the true potential of your audio system with this robust integrated amplifier. It offers exceptional headroom and a wide dynamic range, ensuring your music is delivered with impact and precision."
-    },
-    {
-      "id": 13,
-      "img": "http://localhost:4000/filebucket/integrated_amps/Manley_Stingray.jpg",
-      "name": "Stingray",
-      "brand": "Manley",
-      "category": "integrated_amps",
-      "color": "Black",
-      "price": 2300,
-      "stock": 4,
-      "popularity": 21,
-      "discount": 5,
-      "shortDescription": "Uncompromising sound quality for audiophiles.",
-      "longDescription": "This integrated amplifier is engineered for audio enthusiasts who demand uncompromising sound quality. Its sophisticated circuitry provides a captivating listening experience, revealing every nuance of your favorite tracks."
-    },
-    {
-      "id": 14,
-      "img": "http://localhost:4000/filebucket/power_amps/manley_mahi.jpg",
-      "name": "Mahi",
-      "brand": "Manley",
-      "category": "power_amps",
-      "color": "Black",
-      "price": 2475,
-      "stock": 4,
-      "popularity": 11,
-      "discount": 10,
-      "shortDescription": "Authoritative power for demanding speakers.",
-      "longDescription": "Drive your speakers to their full potential with this exceptionally powerful amplifier. Designed for stability and sonic purity, it delivers an authoritative and transparent sound, even with the most challenging loads."
-    },
-    {
-      "id": 15,
-      "img": "http://localhost:4000/filebucket/power_amps/manley_neoclassic300b.jpg",
-      "name": "Neoclassic300B",
-      "brand": "Manley",
-      "category": "power_amps",
-      "color": "Metallic",
-      "price": 2975,
-      "stock": 20,
-      "popularity": 14,
-      "discount": 0,
-      "shortDescription": "Unadulterated audio performance power amp.",
-      "longDescription": "This power amplifier is built to deliver unadulterated audio performance. Its massive power reserves and pristine signal reproduction ensure every note is rendered with stunning dynamics and incredible accuracy."
-    },
-    {
-      "id": 16,
-      "img": "http://localhost:4000/filebucket/power_amps/parasound_haloa23.jpg",
-      "name": "Haloa23",
-      "brand": "Parasound",
-      "category": "power_amps",
-      "color": "Metallic",
-      "price": 2925,
-      "stock": 5,
-      "popularity": 22,
-      "discount": 5,
-      "shortDescription": "Precision and strength for ultimate audio.",
-      "longDescription": "Designed for the ultimate audio experience, this power amplifier combines raw strength with delicate precision. It renders complex musical passages effortlessly, providing an unparalleled sense of realism and impact."
-    },
-    {
-      "id": 17,
-      "img": "http://localhost:4000/filebucket/preamps/Creek_OBH_22_Passive_Preamp.jpg",
-      "name": "Obh 22 Passive Preamp",
-      "brand": "Creek",
-      "category": "preamps",
-      "color": "Metallic",
-      "price": 825,
-      "stock": 12,
-      "popularity": 8,
-      "discount": 20,
-      "shortDescription": "Refined control and transparent signal path.",
-      "longDescription": "Take command of your audio with this precision preamplifier. Its transparent signal path and versatile connectivity options allow you to tailor your sound with exceptional clarity and control."
-    },
-    {
-      "id": 18,
-      "img": "http://localhost:4000/filebucket/preamps/parasound_classic7100.jpg",
-      "name": "Classic7100",
-      "brand": "Parasound",
-      "category": "preamps",
-      "color": "Black",
-      "price": 950,
-      "stock": 6,
-      "popularity": 19,
-      "discount": 10,
-      "shortDescription": "Pristine audio signal with dynamic control.",
-      "longDescription": "This preamplifier is the cornerstone of a high-fidelity system, offering impeccable signal integrity and dynamic control. It ensures that every sonic detail is preserved, delivering a pure and engaging listening experience."
-    },
-    {
-      "id": 19,
-      "img": "http://localhost:4000/filebucket/preamps/parasound_halop3.jpg",
-      "name": "Halop3",
-      "brand": "Parasound",
-      "category": "preamps",
-      "color": "Metallic",
-      "price": 1025,
+      "id": "p1",
+      "name": "DP-UB450 4K",
+      "brand": "Panasonic",
+      "category": "Blu-ray Players",
+      "description": "Super compact and affordable 4K Ultra HD Blu-ray player with everything you need for your home cinema. Supports almost all formats.",
+      "slug": "panasonic_dp-ub450_4k",
+      "price": 250,
       "stock": 18,
-      "popularity": 40,
+      "rating": 8.1,
       "discount": 0,
-      "shortDescription": "Advanced preamplifier for crystal-clear sound.",
-      "longDescription": "Unlock the full potential of your audio components with this sophisticated preamplifier. Its advanced design minimizes noise and distortion, resulting in a remarkably clean, dynamic, and lifelike sound."
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_1.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_2.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_3.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub450_4k/black_4.jpeg"
+      ]
     },
     {
-      "id": 20,
-      "img": "http://localhost:4000/filebucket/preamps/Project_prebox.jpg",
-      "name": "Prebox",
-      "brand": "Pro-Ject",
-      "category": "preamps",
-      "color": "Metallic",
-      "price": 1525,
-      "stock": 8,
-      "popularity": 35,
-      "discount": 0,
-      "shortDescription": "Audiophile-grade preamp for ultimate purity.",
-      "longDescription": "Refine your sound with this audiophile-grade preamplifier, offering precise volume control and pristine signal amplification. It's the ideal choice for demanding listeners seeking ultimate sonic purity."
+      "id": "p2",
+      "name": "DP-UB820 4K",
+      "brand": "Panasonic",
+      "category": "Blu-ray Players",
+      "description": "4K Ultra HD Blu-ray player for high-end home cinemas. Handles almost every format imaginable and has a stylish and compact design.",
+      "slug": "panasonic_dp-ub820_4k",
+      "price": 500,
+      "stock": 19,
+      "rating": 8.4,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_1.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_2.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_3.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub820_4k/black_4.jpeg"
+      ]
     },
     {
-      "id": 21,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_3_bl.jpg",
-      "name": "Debut III Blue",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Blue",
-      "price": 1775,
+      "id": "p3",
+      "name": "DP-UB9000 4K",
+      "brand": "Panasonic",
+      "category": "Blu-ray Players",
+      "description": "4K Ultra HD Blu-ray player for the ambitious home cinema. Handles almost every format imaginable and is heavy and solidly made of metal",
+      "slug": "panasonic_dp-ub9000_4k",
+      "price": 1025,
+      "stock": 19,
+      "rating": 8.8,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_1.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_2.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_3.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_4.jpeg",
+        "http://localhost:4000/filebucket/blu-ray_players/panasonic_dp-ub9000_4k/black_5.jpeg"
+      ]
+    },
+    {
+      "id": "p4",
+      "name": "DCD-600NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Solid and well-playing CD player that will enhance your collection for years to come. Beautiful real aluminium finish",
+      "slug": "denon_dcd-600ne",
+      "price": 325,
+      "stock": 2,
+      "rating": 8.1,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-600ne/metallic_4.jpeg"
+      ]
+    },
+    {
+      "id": "p5",
+      "name": "DCD-900NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Solid, advanced and well-playing CD player with USB input for high-resolution music files. Beautiful real aluminium finish.",
+      "slug": "denon_dcd-900ne",
+      "price": 400,
+      "stock": 7,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/black_5.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-900ne/metallic_5.jpeg"
+      ]
+    },
+    {
+      "id": "p6",
+      "name": "DCD-1700NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Wring the full quality out of your beloved CD and SACD collection with this audiophile player. Beautifully finished in real aluminium.",
+      "slug": "denon_dcd-1700ne",
+      "price": 1275,
+      "stock": 14,
+      "rating": 8.9,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/black_5.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-1700ne/metallic_5.jpeg"
+      ]
+    },
+    {
+      "id": "p7",
+      "name": "DCD-3000NE",
+      "brand": "Denon",
+      "category": "CD Players",
+      "description": "Discover how good your CDs can really sound on this uncompromising player. Also a feast for the eyes with its stunning aluminium finish.",
+      "slug": "denon_dcd-3000ne",
+      "price": 2175,
       "stock": 5,
-      "popularity": 3,
-      "discount": 5,
-      "shortDescription": "Rediscover vinyl with this elegant turntable.",
-      "longDescription": "Revisit your vinyl collection with this exquisitely crafted record player. It delivers a rich, warm, and detailed sound that truly captures the essence of analog audio, making every spin a nostalgic journey."
+      "rating": 8.7,
+      "discount": 0,
+      "colors": [
+        "black",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/black_5.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/cd_players/denon_dcd-3000ne/metallic_5.jpeg"
+      ]
     },
     {
-      "id": 22,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_III_red_1.jpg",
-      "name": "Debut III Red ",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Red",
+      "id": "p8",
+      "name": "CD-2",
+      "brand": "Lyngdorf",
+      "category": "CD Players",
+      "description": "If you don't want to settle for second best for your CD collection, this is your solution. Superb sound quality in an exclusive slimline aluminium design.",
+      "slug": "lyngdorf_cd-2",
+      "price": 2525,
+      "stock": 5,
+      "rating": 9.2,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/lyngdorf_cd-2/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/lyngdorf_cd-2/black_2.jpeg",
+        "http://localhost:4000/filebucket/cd_players/lyngdorf_cd-2/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p9",
+      "name": "C538",
+      "brand": "NAD",
+      "category": "CD Players",
+      "description": "Enjoy your CD collection with full audio value for money. You get premium components and thoughtful solutions for years of great sound.",
+      "slug": "nad_c538",
+      "price": 350,
+      "stock": 7,
+      "rating": 8.3,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/cd_players/nad_c538/black_1.jpeg",
+        "http://localhost:4000/filebucket/cd_players/nad_c538/black_2.jpeg"
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "Beoplay H100",
+      "brand": "Bang & Olufsen",
+      "category": "Headphones",
+      "description": "Ultimate wireless luxury over-ear headphones with excellent hi-fi sound, superb finish and smooth operation. Pure world class!",
+      "slug": "bang_and_olufsen_beoplay_h100",
       "price": 1425,
-      "stock": 6,
-      "popularity": 5,
-      "discount": 15,
-      "shortDescription": "Precision-engineered turntable for vibrant sound.",
-      "longDescription": "Immerse yourself in the captivating world of vinyl with this beautifully designed turntable. Its precision engineering ensures accurate tracking and a vibrant, lifelike sound that will delight any audiophile."
-    },
-    {
-      "id": 23,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_Debut_III_yellow_1.jpg",
-      "name": "Debut III Yellow",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Yellow",
-      "price": 2400,
-      "stock": 16,
-      "popularity": 18,
-      "discount": 20,
-      "shortDescription": "Authentic analog experience with stunning design.",
-      "longDescription": "Bring your vinyl records to life with this exceptional turntable. It combines elegant aesthetics with high-fidelity performance, offering a deeply engaging and authentic analog listening experience."
-    },
-    {
-      "id": 24,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_rpm_5.jpg",
-      "name": "RPM 5",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Black",
-      "price": 825,
-      "stock": 12,
-      "popularity": 26,
-      "discount": 20,
-      "shortDescription": "Robust turntable for pristine vinyl playback.",
-      "longDescription": "This sophisticated turntable is a testament to analog excellence, delivering a pristine and detailed sound from your vinyl collection. Its robust construction ensures optimal playback and minimal resonance."
-    },
-    {
-      "id": 25,
-      "img": "http://localhost:4000/filebucket/record_players/Pro_ject_rpm10.jpg",
-      "name": "RPM 10",
-      "brand": "Pro-Ject",
-      "category": "record_players",
-      "color": "Black",
-      "price": 1975,
       "stock": 5,
-      "popularity": 31,
-      "discount": 20,
-      "shortDescription": "High-performance turntable for ultimate detail.",
-      "longDescription": "Discover the true magic of vinyl with this high-performance turntable. It meticulously extracts every detail from your records, providing an incredibly dynamic and emotionally resonant listening journey."
-    },
-    {
-      "id": 26,
-      "img": "http://localhost:4000/filebucket/speakers/boesendorfer_vcs_wall.gif",
-      "name": "Vcs Wall",
-      "brand": "Boesendorfer",
-      "category": "speakers",
-      "color": "Black",
-      "price": 1075,
-      "stock": 4,
-      "popularity": 17,
-      "discount": 0,
-      "shortDescription": "Room-filling sound from these premium speakers.",
-      "longDescription": "Fill your space with breathtaking audio from these premium loudspeakers. Engineered for acoustic perfection, they deliver a wide soundstage, precise imaging, and powerful, yet articulate bass."
-    },
-    {
-      "id": 27,
-      "img": "http://localhost:4000/filebucket/speakers/epos_m5.gif",
-      "name": "M5",
-      "brand": "Epos",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 1525,
-      "stock": 3,
-      "popularity": 7,
-      "discount": 15,
-      "shortDescription": "Masterfully crafted loudspeakers for realism.",
-      "longDescription": "Experience music the way it was meant to be heard with these masterfully crafted loudspeakers. They reproduce every instrument and vocal with stunning realism, drawing you deeper into your favorite tracks."
-    },
-    {
-      "id": 28,
-      "img": "http://localhost:4000/filebucket/speakers/harbeth_hl7es2.jpg",
-      "name": "Hl7Es2",
-      "brand": "Harbeth",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 3400,
-      "stock": 17,
-      "popularity": 16,
-      "discount": 0,
-      "shortDescription": "Disappearing speakers, leaving only the music.",
-      "longDescription": "These loudspeakers are designed to disappear, leaving only the music. Their exceptional clarity and natural tonal balance create an immersive listening experience, revealing the true essence of your recordings."
-    },
-    {
-      "id": 29,
-      "img": "http://localhost:4000/filebucket/speakers/harbeth_monitor30.jpg",
-      "name": "Monitor30",
-      "brand": "Harbeth",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 2250,
-      "stock": 5,
-      "popularity": 20,
-      "discount": 20,
-      "shortDescription": "Concert hall sound from high-fidelity speakers.",
-      "longDescription": "Transform your room into a concert hall with these high-fidelity loudspeakers. They boast an expansive dynamic range and incredible detail, delivering a truly captivating and emotionally resonant audio performance."
-    },
-    {
-      "id": 30,
-      "img": "http://localhost:4000/filebucket/speakers/harbeth_p3es2.jpg",
-      "name": "P3Es2",
-      "brand": "Harbeth",
-      "category": "speakers",
-      "color": "Wood",
-      "price": 3675,
-      "stock": 0,
-      "popularity": 34,
-      "discount": 10,
-      "shortDescription": "Compact power, redefining sonic excellence.",
-      "longDescription": "These compact yet powerful loudspeakers redefine sonic excellence. Their ability to reproduce intricate musical textures and deep, articulate bass will surprise and delight even the most discerning audiophiles."
-    },
-    {
-      "id": 31,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD102b.jpg",
-      "name": "Jd102B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "White",
-      "price": 775,
-      "stock": 0,
-      "popularity": 32,
-      "discount": 15,
-      "shortDescription": "Warm, rich sound with vintage tube character.",
-      "longDescription": "Indulge in the unmistakable warmth and rich harmonics of this classic tube amplifier. It imparts a delightful vintage character to your music, adding depth and emotion to every note."
-    },
-    {
-      "id": 32,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD202a.jpg",
-      "name": "Jd202A",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "Metallic",
-      "price": 2275,
-      "stock": 9,
-      "popularity": 25,
-      "discount": 15,
-      "shortDescription": "Captivating audio, lush analog feel.",
-      "longDescription": "This tube amplifier offers a truly captivating audio experience, with its signature warm and inviting sound. It brings a new dimension to your music, enhancing clarity and adding a lush, analog feel."
-    },
-    {
-      "id": 33,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD300b.jpg",
-      "name": "Jd300B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "Metallic",
-      "price": 1675,
-      "stock": 1,
-      "popularity": 38,
-      "discount": 10,
-      "shortDescription": "Legendary tube sound for engaging listening.",
-      "longDescription": "Experience the legendary tube sound with this exquisite amplifier. Its rich, fluid presentation and natural dynamics create an incredibly engaging and fatigue-free listening experience that will keep you captivated."
-    },
-    {
-      "id": 34,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD302b.jpg",
-      "name": "Jd302B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "White",
-      "price": 2575,
-      "stock": 13,
-      "popularity": 57,
-      "discount": 20,
-      "shortDescription": "Timeless tube audio with natural soundstage.",
-      "longDescription": "This tube amplifier is a testament to timeless audio engineering, delivering a beautifully natural and expansive soundstage. It brings out the soul of your music, with a warmth and realism that digital simply can't replicate."
-    },
-    {
-      "id": 35,
-      "img": "http://localhost:4000/filebucket/tube_amps/jolida_JD502b.jpg",
-      "name": "Jd502B",
-      "brand": "Jolida",
-      "category": "tube_amps",
-      "color": "White",
-      "price": 1800,
-      "stock": 8,
-      "popularity": 56,
+      "rating": 9.4,
       "discount": 5,
-      "shortDescription": "Immersive tube amplifier, detailed and musical.",
-      "longDescription": "Dive into the captivating world of tube audio with this remarkable amplifier. Its smooth, articulate sound and impressive power output create an immersive listening experience that's both detailed and wonderfully musical."
+      "colors": [
+        "black",
+        "copper",
+        "gold"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/copper_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/copper_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/copper_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/gold_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/gold_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_h100/gold_3.jpeg"
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "Beoplay HX",
+      "brand": "Bang & Olufsen",
+      "category": "Headphones",
+      "description": "Enjoy your music in style with these exclusive wireless over-ear headphones. Advanced ANC, touch control and world-class design!",
+      "slug": "bang_and_olufsen_beoplay_hx",
+      "price": 525,
+      "stock": 15,
+      "rating": 8.9,
+      "discount": 10,
+      "colors": [
+        "black",
+        "copper",
+        "gold"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/copper_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/copper_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/copper_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/gold_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/gold_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_hx/gold_3.jpeg"
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "Beoplay Portal",
+      "brand": "Bang & Olufsen",
+      "category": "Headphones",
+      "description": "Unique and exclusive gaming headset with great sound for both games and music. Together with Xbox you get perfect wireless functionality and extra comfort.",
+      "slug": "bang_and_olufsen_beoplay_portal",
+      "price": 400,
+      "stock": 4,
+      "rating": 8.2,
+      "discount": 15,
+      "colors": [
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_4.jpeg",
+        "http://localhost:4000/filebucket/headphones/bang_and_olufsen_beoplay_portal/white_5.jpeg"
+      ]
+    },
+    {
+      "id": "p13",
+      "name": "Ace",
+      "brand": "Sonos",
+      "category": "Headphones",
+      "description": "Take great Sonos sound on the go and surround yourself with your Sonos TV soundbar with these exclusive headphones.",
+      "slug": "sonos_ace",
+      "price": 375,
+      "stock": 17,
+      "rating": 8.0,
+      "discount": 10,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/sonos_ace/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sonos_ace/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p14",
+      "name": "WH-1000XM5",
+      "brand": "Sony",
+      "category": "Headphones",
+      "description": "Great wireless sound quality with world-class noise cancellation (ANC). Super comfortable design with great finish.",
+      "slug": "sony_wh-1000xm5",
+      "price": 275,
+      "stock": 8,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "pink",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/blue_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/blue_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/pink_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/pink_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm5/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p15",
+      "name": "WH-1000XM6",
+      "brand": "Sony",
+      "category": "Headphones",
+      "description": "Great wireless sound quality with world-class noise cancellation (ANC). Sleek, comfortable and fully collapsible lightweight design.",
+      "slug": "sony_wh-1000xm6",
+      "price": 400,
+      "stock": 12,
+      "rating": 8.8,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/black_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/black_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/black_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/blue_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/blue_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/blue_3.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/white_1.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/white_2.jpeg",
+        "http://localhost:4000/filebucket/headphones/sony_wh-1000xm6/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "H120",
+      "brand": "Hegel",
+      "category": "Integrated Amps",
+      "description": "Get the true Hegel experience and advanced capabilities from a solid and elegant amplifier. A true gem for serious music lovers.",
+      "slug": "hegel_h120",
+      "price": 2175,
+      "stock": 9,
+      "rating": 9.3,
+      "discount": 15,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/white_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/white_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h120/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p17",
+      "name": "H400",
+      "brand": "Hegel",
+      "category": "Integrated Amps",
+      "description": "Heavy analogue stereo amplifier with 2 x 250 watts, advanced streaming and plenty of options for both analogue and digital music sources.",
+      "slug": "hegel_h400",
+      "price": 5975,
+      "stock": 3,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h400/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p18",
+      "name": "H600",
+      "brand": "Hegel",
+      "category": "Integrated Amps",
+      "description": "Is only the best good enough for your system? Hegel's H600 top amplifier is the answer to your hottest musical dreams!",
+      "slug": "hegel_h600",
+      "price": 9900,
+      "stock": 1,
+      "rating": 9.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/hegel_h600/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p19",
+      "name": "TDAI-2210",
+      "brand": "Lyngdorf",
+      "category": "Integrated Amps",
+      "description": "Crystal clear digital hi-fi sound, built-in streaming, RoomPerfect room correction, super sleek compact design and plenty of power. What more could you want?",
+      "slug": "lyngdorf_tdai-2210",
+      "price": 3450,
+      "stock": 8,
+      "rating": 8.9,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_4.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_5.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/lyngdorf_tdai-2210/black_6.jpeg"
+      ]
+    },
+    {
+      "id": "p20",
+      "name": "C316 V2",
+      "brand": "NAD",
+      "category": "Integrated Amps",
+      "description": "Music first - No nonsense. The classic NAD universe starts here with great sound for every penny. Includes dedicated turntable input.",
+      "slug": "nad_c316_v2",
+      "price": 350,
+      "stock": 10,
+      "rating": 8.0,
+      "discount": 20,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/nad_c316_v2/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c316_v2/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c316_v2/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p21",
+      "name": "C328",
+      "brand": "NAD",
+      "category": "Integrated Amps",
+      "description": "Step into the future with a compact and advanced amplifier with Bluetooth and countless possibilities for both digital and analogue music.",
+      "slug": "nad_c328",
+      "price": 575,
+      "stock": 15,
+      "rating": 8.1,
+      "discount": 5,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/nad_c328/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c328/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c328/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p22",
+      "name": "C338",
+      "brand": "NAD",
+      "category": "Integrated Amps",
+      "description": "Step into the future with Chromecast built-in wireless music streaming and countless possibilities for both digital and analogue music!",
+      "slug": "nad_c338",
+      "price": 625,
+      "stock": 10,
+      "rating": 8.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_1.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_2.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_3.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_4.jpeg",
+        "http://localhost:4000/filebucket/integrated_amps/nad_c338/black_5.jpeg"
+      ]
+    },
+    {
+      "id": "p23",
+      "name": "V10",
+      "brand": "Hegel",
+      "category": "Phono Amps",
+      "description": "RIAA amplifier in uncompromising high-end quality. Here you can get the full sonic performance of the very best MM and MC pickups on the market.",
+      "slug": "hegel_v10",
+      "price": 1275,
+      "stock": 12,
+      "rating": 8.1,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/phono_amps/hegel_v10/black_1.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/hegel_v10/black_2.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/hegel_v10/black_3.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/hegel_v10/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p24",
+      "name": "MasterPhono",
+      "brand": "MoFi Electronics",
+      "category": "Phono Amps",
+      "description": "Uncompromising full-size high-end MM/MC RIAA amplifier that is pure world class in both sound quality and ease of use.",
+      "slug": "mofi_electronics_masterphono",
+      "price": 4950,
+      "stock": 4,
+      "rating": 9.2,
+      "discount": 25,
+      "colors": [
+        "black",
+        "walnut"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/black_1.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/black_2.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/black_3.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/black_4.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/black_5.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/walnut_1.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/walnut_2.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/walnut_3.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/walnut_4.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/mofi_electronics_masterphono/walnut_5.jpeg"
+      ]
+    },
+    {
+      "id": "p25",
+      "name": "PP 2E",
+      "brand": "NAD",
+      "category": "Phono Amps",
+      "description": "Play your records in high quality on any system with this compact and easy-to-use RIAA amplifier. For both MM and MC pickups.",
+      "slug": "nad_pp_2e",
+      "price": 200,
+      "stock": 19,
+      "rating": 7.9,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/phono_amps/nad_pp_2e/black_1.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/nad_pp_2e/black_2.jpeg"
+      ]
+    },
+    {
+      "id": "p26",
+      "name": "PP 4",
+      "brand": "NAD",
+      "category": "Phono Amps",
+      "description": "Play your records on the system or transfer them to your computer via USB. Enjoy vinyl to the fullest and even digitise your cassette tapes.",
+      "slug": "nad_pp_4",
+      "price": 250,
+      "stock": 15,
+      "rating": 8.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/phono_amps/nad_pp_4/black_1.jpeg",
+        "http://localhost:4000/filebucket/phono_amps/nad_pp_4/black_2.jpeg"
+      ]
+    },
+    {
+      "id": "p27",
+      "name": "H20",
+      "brand": "Hegel",
+      "category": "Power Amps",
+      "description": "Heavy and powerful analogue power amplifier that can drive even the most power-hungry high-end speakers with total control.",
+      "slug": "hegel_h20",
+      "price": 5075,
+      "stock": 19,
+      "rating": 8.6,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/power_amps/hegel_h20/black_1.jpeg",
+        "http://localhost:4000/filebucket/power_amps/hegel_h20/black_2.jpeg",
+        "http://localhost:4000/filebucket/power_amps/hegel_h20/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p28",
+      "name": "H30",
+      "brand": "Hegel",
+      "category": "Power Amps",
+      "description": "Here's the amplifier that ends all speculation about whether you have enough power for your high-end speakers. You do.",
+      "slug": "hegel_h30",
+      "price": 10900,
+      "stock": 3,
+      "rating": 9.2,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/power_amps/hegel_h30/black_1.jpeg",
+        "http://localhost:4000/filebucket/power_amps/hegel_h30/black_2.jpeg",
+        "http://localhost:4000/filebucket/power_amps/hegel_h30/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p29",
+      "name": "SDA-2400",
+      "brand": "Lyngdorf",
+      "category": "Power Amps",
+      "description": "Discreet on the surface, powerful and highly competent on the inside. Here you get plenty of true high-end wattage without big cabinets and even bigger price tags!",
+      "slug": "lyngdorf_sda-2400",
+      "price": 2500,
+      "stock": 11,
+      "rating": 8.8,
+      "discount": 15,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/power_amps/lyngdorf_sda-2400/black_1.jpeg",
+        "http://localhost:4000/filebucket/power_amps/lyngdorf_sda-2400/black_2.jpeg",
+        "http://localhost:4000/filebucket/power_amps/lyngdorf_sda-2400/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p30",
+      "name": "C268",
+      "brand": "NAD",
+      "category": "Power Amps",
+      "description": "Get more power and better sound on your existing system. Or connect a music streamer and fire up all your wireless music!",
+      "slug": "nad_c268",
+      "price": 850,
+      "stock": 9,
+      "rating": 8.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/power_amps/nad_c268/black_1.jpeg",
+        "http://localhost:4000/filebucket/power_amps/nad_c268/black_2.jpeg",
+        "http://localhost:4000/filebucket/power_amps/nad_c268/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p31",
+      "name": "C298",
+      "brand": "NAD",
+      "category": "Power Amps",
+      "description": "Massive power and crystal clear sound in even the heaviest speaker load. A whole new level of power at a sensationally low price.",
+      "slug": "nad_c298",
+      "price": 2075,
+      "stock": 20,
+      "rating": 8.6,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/power_amps/nad_c298/black_1.jpeg",
+        "http://localhost:4000/filebucket/power_amps/nad_c298/black_2.jpeg",
+        "http://localhost:4000/filebucket/power_amps/nad_c298/black_3.jpeg",
+        "http://localhost:4000/filebucket/power_amps/nad_c298/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p32",
+      "name": "P30",
+      "brand": "Hegel",
+      "category": "Preamps",
+      "description": "Is only the best good enough? Hegel's uncompromising preamplifier is your guarantee for outstanding analogue sound quality on your system.",
+      "slug": "hegel_p30",
+      "price": 5500,
+      "stock": 7,
+      "rating": 8.8,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_3.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p33",
+      "name": "P30A",
+      "brand": "Hegel",
+      "category": "Preamps",
+      "description": "Only satisfied with the best? This is Hegel's improved version of the uncompromising P30 - guaranteeing outstanding analogue sound quality on your system.",
+      "slug": "hegel_p30a",
+      "price": 6900,
+      "stock": 6,
+      "rating": 9.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_3.jpeg",
+        "http://localhost:4000/filebucket/preamps/hegel_p30a/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p34",
+      "name": "C658",
+      "brand": "NAD",
+      "category": "Preamps",
+      "description": "Superb hi-fi music streamer and preamplifier in one. Includes built-in Bluesound and smart two-way Bluetooth for wireless headphones.",
+      "slug": "nad_c658",
+      "price": 1725,
+      "stock": 2,
+      "rating": 8.5,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/nad_c658/black_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_c658/black_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_c658/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p35",
+      "name": "M66",
+      "brand": "NAD",
+      "category": "Preamps",
+      "description": "High-end streaming stereo DAC preamplifier that handles almost any task, including individual calibration of up to 4 subwoofers.",
+      "slug": "nad_m66",
+      "price": 6300,
+      "stock": 14,
+      "rating": 8.9,
+      "discount": 0,
+      "colors": [
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/preamps/nad_m66/metallic_5.jpeg"
+      ]
+    },
+    {
+      "id": "p36",
+      "name": "DP-29F",
+      "brand": "Denon",
+      "category": "Record Players",
+      "description": "Why throw your discs in the basement when you can put them back on the plate for a small fee? Ready to go incl. pickup, suitable for all systems.",
+      "slug": "denon_dp-29f",
+      "price": 175,
+      "stock": 21,
+      "rating": 8.1,
+      "discount": 10,
+      "colors": [
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_5.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_6.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-29f/metallic_7.jpeg"
+      ]
+    },
+    {
+      "id": "p37",
+      "name": "DP-300F",
+      "brand": "Denon",
+      "category": "Record Players",
+      "description": "Fully automatic quality turntable with built-in RIAA amplifier and factory-installed pickup. Easy and easy to play!",
+      "slug": "denon_dp-300f",
+      "price": 375,
+      "stock": 16,
+      "rating": 8.0,
+      "discount": 0,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/white_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/white_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-300f/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p38",
+      "name": "DP-400",
+      "brand": "Denon",
+      "category": "Record Players",
+      "description": "Quality turntable with pre-installed pickup, autostop and built-in RIAA amplifier so you can connect directly to any system.",
+      "slug": "denon_dp-400",
+      "price": 475,
+      "stock": 0,
+      "rating": 8.4,
+      "discount": 25,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/black_5.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/denon_dp-400/white_5.jpeg"
+      ]
+    },
+    {
+      "id": "p39",
+      "name": "C558",
+      "brand": "NAD",
+      "category": "Record Players",
+      "description": "Make your vinyl collection sparkle with a serious hi-fi turntable. Simple, solid and proven technology with high quality down to the last detail.",
+      "slug": "nad_c558",
+      "price": 450,
+      "stock": 12,
+      "rating": 8.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_4.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c558/black_5.jpeg"
+      ]
+    },
+    {
+      "id": "p40",
+      "name": "C588",
+      "brand": "NAD",
+      "category": "Record Players",
+      "description": "Solid and advanced turntable for the audiophile enthusiast. Here you get the extra quality that takes your music experience to the next level.",
+      "slug": "nad_c588",
+      "price": 750,
+      "stock": 14,
+      "rating": 8.6,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/nad_c588/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p41",
+      "name": "Debut Carbon EVO",
+      "brand": "Pro-Ject",
+      "category": "Record Players",
+      "description": "Indulge your eyes, ears and vinyl with vibrant colours, serious hi-fi solutions and exclusive carbon fibre tonearm. Ready to go with Ortofon 2M Red pickup.",
+      "slug": "pro-ject_debut_carbon_evo",
+      "price": 550,
+      "stock": 9,
+      "rating": 8.4,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_2.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_3.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_debut_carbon_evo/black_4.jpeg"
+      ]
+    },
+    {
+      "id": "p42",
+      "name": "X8",
+      "brand": "Pro-Ject",
+      "category": "Record Players",
+      "description": "Heavy audiophile hi-fi turntable with fully balanced construction and top quality in every detail. Comes ready to go with Ortofon MC pickup.",
+      "slug": "pro-ject_x8",
+      "price": 2300,
+      "stock": 16,
+      "rating": 8.8,
+      "discount": 15,
+      "colors": [
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/record_players/pro-ject_x8/white_1.jpeg",
+        "http://localhost:4000/filebucket/record_players/pro-ject_x8/white_2.jpeg"
+      ]
+    },
+    {
+      "id": "p43",
+      "name": "Beosound 2 (3rd Gen)",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "Unique wireless speaker designed with an originality and attention to detail that you will only find at Bang & Olufsen.",
+      "slug": "bang_and_olufsen_beosound_2_3rd_gen",
+      "price": 2750,
+      "stock": 8,
+      "rating": 9.8,
+      "discount": 0,
+      "colors": [
+        "black",
+        "gold",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/gold_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/gold_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/gold_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_2_3rd_gen/metallic_3.jpeg"
+      ]
+    },
+    {
+      "id": "p44",
+      "name": "Beosound A1 (3rd Gen)",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "Unique and exclusive Bluetooth speaker with world-class design. Plays for up to 24 hours and is designed for both mobile music and phone calls.",
+      "slug": "bang_and_olufsen_beosound_a1_3rd_gen",
+      "price": 300,
+      "stock": 17,
+      "rating": 8.9,
+      "discount": 20,
+      "colors": [
+        "copper",
+        "green",
+        "metallic"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/copper_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/copper_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/copper_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/green_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/green_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/green_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/metallic_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/metallic_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a1_3rd_gen/metallic_3.jpeg"
+      ]
+    },
+    {
+      "id": "p45",
+      "name": "Beosound A9 (5th Gen)",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "A truly unique wireless speaker with world-class sound quality, raw power and finish. Iconic design with real wood legs.",
+      "slug": "bang_and_olufsen_beosound_a9_5th_gen",
+      "price": 2925,
+      "stock": 11,
+      "rating": 9.7,
+      "discount": 20,
+      "colors": [
+        "black",
+        "gold",
+        "gray"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gold_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gold_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gold_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_a9_5th_gen/gray_3.jpeg"
+      ]
+    },
+    {
+      "id": "p46",
+      "name": "Beosound Explore",
+      "brand": "Bang & Olufsen",
+      "category": "Speakers (Movable)",
+      "description": "The speaker for those who want ultra-portable, robust and stylish. Great sound for its size and battery life up to 27 hours.",
+      "slug": "bang_and_olufsen_beosound_explore",
+      "price": 225,
+      "stock": 11,
+      "rating": 8.7,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "gray",
+        "green"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/blue_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/blue_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/gray_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/green_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/bang_and_olufsen_beosound_explore/green_2.jpeg"
+      ]
+    },
+    {
+      "id": "p47",
+      "name": "Era 100",
+      "brand": "Sonos",
+      "category": "Speakers (Movable)",
+      "description": "Smart and compact wireless speaker that is a great entry point to the exciting Sonos universe. Includes multi-room, Bluetooth and voice control.",
+      "slug": "sonos_era_100",
+      "price": 200,
+      "stock": 25,
+      "rating": 8.4,
+      "discount": 20,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_100/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p48",
+      "name": "Era 300",
+      "brand": "Sonos",
+      "category": "Speakers (Movable)",
+      "description": "Super smart wireless speaker that can surround you with music on all sides via built-in Dolby Atmos. Includes multi-room and Bluetooth.",
+      "slug": "sonos_era_300",
+      "price": 375,
+      "stock": 15,
+      "rating": 8.4,
+      "discount": 10,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_era_300/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p49",
+      "name": "Five",
+      "brand": "Sonos",
+      "category": "Speakers (Movable)",
+      "description": "Powerful wireless multi-room speaker that can be used in both small and large rooms and for countless purposes. Two pieces can be combined for stereo.",
+      "slug": "sonos_five",
+      "price": 500,
+      "stock": 20,
+      "rating": 8.5,
+      "discount": 5,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/sonos_five/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p50",
+      "name": "4 (USB-C)",
+      "brand": "SOUNDBOKS",
+      "category": "Speakers (Movable)",
+      "description": "Heavy-duty Bluetooth speaker with battery for party music for 40 hours or even more. Sets the mood for all parties and events.",
+      "slug": "soundboks_4_usb-c",
+      "price": 925,
+      "stock": 18,
+      "rating": 9.3,
+      "discount": 0,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_5.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_4_usb-c/black_6.jpeg"
+      ]
+    },
+    {
+      "id": "p51",
+      "name": "Go (USB-C)",
+      "brand": "SOUNDBOKS",
+      "category": "Speakers (Movable)",
+      "description": "The compact SOUNDBOKS Go is your faithful companion for parties, festivals, events and socialising with friends. Enjoy great music anywhere for up to 40 hours!",
+      "slug": "soundboks_go_usb-c",
+      "price": 575,
+      "stock": 20,
+      "rating": 9.0,
+      "discount": 10,
+      "colors": [
+        "black"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_movable/soundboks_go_usb-c/black_3.jpeg"
+      ]
+    },
+    {
+      "id": "p52",
+      "name": "LS50 Wireless II",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Wireless active speakers in a unique compact design. Enjoy music and TV sound in great hi-fi quality without a large system and cables.",
+      "slug": "kef_ls50_wireless_ii",
+      "price": 1500,
+      "stock": 20,
+      "rating": 9.4,
+      "discount": 0,
+      "colors": [
+        "black",
+        "gray",
+        "red",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/gray_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/red_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/red_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls50_wireless_ii/white_2.jpeg"
+      ]
+    },
+    {
+      "id": "p53",
+      "name": "LS60 Wireless",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Wireless floorstanding speakers in a unique super slim design. Enjoy music and TV sound in true high-end quality without a large system and cables.",
+      "slug": "kef_ls60_wireless",
+      "price": 4825,
+      "stock": 15,
+      "rating": 9.3,
+      "discount": 0,
+      "colors": [
+        "black",
+        "blue",
+        "gray",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/blue_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/blue_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_ls60_wireless/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p54",
+      "name": "LSX II",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Wireless active speakers in a unique super-compact design. Get the true hi-fi experience for streaming music, computer and TV sound.",
+      "slug": "kef_lsx_ii",
+      "price": 1150,
+      "stock": 19,
+      "rating": 9.5,
+      "discount": 20,
+      "colors": [
+        "black",
+        "blue",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/blue_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p55",
+      "name": "LSX II LT",
+      "brand": "KEF",
+      "category": "Speakers (Stationary)",
+      "description": "Experience true hi-fi for streaming music, computer and TV sound with these wireless active speakers in a unique super-compact design.",
+      "slug": "kef_lsx_ii_lt",
+      "price": 875,
+      "stock": 8,
+      "rating": 9.5,
+      "discount": 0,
+      "colors": [
+        "black",
+        "green",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/green_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/green_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/green_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/kef_lsx_ii_lt/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p56",
+      "name": "FR-1 Gabriel",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Elegant flat design, exclusive finish, superb hi-fi quality sound. You get the whole package in a discreet, living room-friendly wall speaker.",
+      "slug": "lyngdorf_fr-1_gabriel",
+      "price": 575,
+      "stock": 9,
+      "rating": 8.6,
+      "discount": 25,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-1_gabriel/white_3.jpeg"
+      ]
+    },
+    {
+      "id": "p57",
+      "name": "FR-2",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Excellent full-range sound from a flat and elegant floorstanding speaker. Get the whole package for a living room-friendly hi-fi solution without compromise.",
+      "slug": "lyngdorf_fr-2",
+      "price": 3325,
+      "stock": 18,
+      "rating": 8.7,
+      "discount": 15,
+      "colors": [
+        "gray",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/gray_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/gray_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_fr-2/white_2.jpeg"
+      ]
+    },
+    {
+      "id": "p58",
+      "name": "MH-2 Gabriel",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Premium sound from a flat, elegant and discreet in-wall speaker. Add a subwoofer and you're there with your interior design intact!",
+      "slug": "lyngdorf_mh-2_gabriel",
+      "price": 450,
+      "stock": 7,
+      "rating": 8.3,
+      "discount": 0,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/black_4.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-2_gabriel/white_4.jpeg"
+      ]
+    },
+    {
+      "id": "p59",
+      "name": "MH-3 Gabriel",
+      "brand": "Lyngdorf",
+      "category": "Speakers (Stationary)",
+      "description": "Great sound from a compact and discreet wall-mounted speaker. Attach a subwoofer and you're there with your home decor intact!",
+      "slug": "lyngdorf_mh-3_gabriel",
+      "price": 425,
+      "stock": 11,
+      "rating": 8.2,
+      "discount": 10,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "images": [
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/black_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/black_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/black_3.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_1.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_2.jpeg",
+        "http://localhost:4000/filebucket/speakers_stationary/lyngdorf_mh-3_gabriel/white_3.jpeg"
+      ]
     }
   ],
   "newsletter_list": [],
